@@ -823,6 +823,7 @@
     "criteria": {
       "cooked_porkchop": "2023-08-12 14:27:57 +0000",
       "cooked_mutton": "2023-08-12 15:36:04 +0000",
+      "cooked_beef": "2023-08-19 16:43:24 +0000",
       "baked_potato": "2023-08-13 11:16:22 +0000",
       "cooked_cod": "2023-08-13 12:55:14 +0000",
       "pumpkin_pie": "2023-08-12 15:32:10 +0000",
@@ -2930,6 +2931,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2023-08-18 17:00:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2023-08-19 11:56:53 +0000"
     },
     "done": true
   },
