@@ -5,4 +5,4 @@ git add .
 git commit -m "$(date)"
 git push origin master
 
-echo "gut push success time: $(data)"
+echo "gut push success time: $(date)"
