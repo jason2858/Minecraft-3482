@@ -1,0 +1,135 @@
+[18Aug2023 14:05:45.177] [User Authenticator #103/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[18Aug2023 14:05:47.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.120.232:1871] logged in with entity id 493205 at (-1036.6101237469247, 63.0, -142.8436767340229)
+[18Aug2023 14:05:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[18Aug2023 14:56:22.699] [User Authenticator #104/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 14:56:24.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:51987] logged in with entity id 503541 at (-985.5, 75.0, 152.5)
+[18Aug2023 14:56:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 14:56:56.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> DC++
+[18Aug2023 14:59:42.529] [User Authenticator #105/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[18Aug2023 14:59:44.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:6074] logged in with entity id 505119 at (-982.5, 75.0, 152.5)
+[18Aug2023 14:59:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[18Aug2023 15:01:39.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 15:01:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 15:04:39.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[18Aug2023 15:04:39.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[18Aug2023 15:05:03.097] [User Authenticator #106/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[18Aug2023 15:05:04.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:6106] logged in with entity id 507454 at (-1048.3650818235756, 64.0, 232.63045079643658)
+[18Aug2023 15:05:04.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[18Aug2023 15:05:17.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[18Aug2023 15:05:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[18Aug2023 15:05:33.505] [User Authenticator #107/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[18Aug2023 15:05:35.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:6111] logged in with entity id 507848 at (-1047.5, 64.0, 231.5)
+[18Aug2023 15:05:35.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[18Aug2023 15:11:55.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[18Aug2023 15:11:55.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[18Aug2023 15:17:17.790] [User Authenticator #108/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 15:17:19.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52125] logged in with entity id 511892 at (-989.2190249719774, 71.0, 93.86326599308927)
+[18Aug2023 15:17:19.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 15:21:42.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 15:21:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 15:42:04.178] [User Authenticator #109/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[18Aug2023 15:42:06.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:6393] logged in with entity id 517273 at (-973.7276686528141, 76.0, 161.7496912798256)
+[18Aug2023 15:42:06.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[18Aug2023 16:04:33.761] [User Authenticator #110/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 16:04:35.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52482] logged in with entity id 524676 at (-979.2911108843088, 75.0, 144.01531532470983)
+[18Aug2023 16:04:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 16:13:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [Suit Up]
+[18Aug2023 16:21:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> zzzz
+[18Aug2023 16:21:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was killed by [Intentional Game Design]
+[18Aug2023 16:48:23.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zzz
+[18Aug2023 16:49:10.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 16:49:10.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 16:49:25.421] [User Authenticator #111/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 16:49:27.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52886] logged in with entity id 548039 at (-1028.2820666997975, 1.0, 168.00197767012497)
+[18Aug2023 16:49:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 16:49:42.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Cave Spider
+[18Aug2023 17:00:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zz
+[18Aug2023 17:08:45.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18Aug2023 17:09:02.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[18Aug2023 17:09:19.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18Aug2023 17:10:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [Hot Stuff]
+[18Aug2023 17:10:37.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[18Aug2023 17:11:12.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[18Aug2023 17:11:33.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 17:11:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 17:12:20.765] [User Authenticator #112/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 17:12:22.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52956] logged in with entity id 561121 at (-901.4480900629814, 70.0, 1244.7271020895964)
+[18Aug2023 17:12:22.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 17:12:59.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[18Aug2023 17:13:17.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[18Aug2023 17:13:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was shot by Skeleton
+[18Aug2023 17:14:25.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[18Aug2023 17:17:03.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[18Aug2023 17:17:20.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[18Aug2023 17:17:40.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[18Aug2023 17:17:59.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Aug2023 17:18:39.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[18Aug2023 17:19:11.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[18Aug2023 17:19:38.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Aug2023 17:20:12.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[18Aug2023 17:20:33.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[18Aug2023 17:21:05.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[18Aug2023 17:23:14.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zzzz
+[18Aug2023 17:23:21.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 17:23:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 17:23:37.399] [User Authenticator #113/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 17:23:39.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52986] logged in with entity id 570621 at (-677.6225535960112, 69.0, 1703.3874955881233)
+[18Aug2023 17:23:39.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 17:27:14.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Aug2023 17:27:52.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Aug2023 17:28:20.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Aug2023 17:28:43.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18Aug2023 17:28:52.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=71, z=955} BlockPos{x=-573, y=69, z=955}
+[18Aug2023 17:30:44.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[18Aug2023 17:32:21.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[18Aug2023 17:33:43.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[18Aug2023 17:33:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[18Aug2023 17:34:31.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 17:34:31.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 17:34:33.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[18Aug2023 17:34:33.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[18Aug2023 17:36:08.757] [User Authenticator #114/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Aug2023 17:36:10.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:53063] logged in with entity id 580798 at (-1227.2323179172388, 64.0, 2173.880470306394)
+[18Aug2023 17:36:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[18Aug2023 17:50:56.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[18Aug2023 17:50:56.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Aug2023 20:49:41.405] [User Authenticator #115/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:49:41.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58206] logged in with entity id 587992 at (40.5, 63.0, -13.5)
+[18Aug2023 20:49:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:49:51.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids has made the advancement [We Need to Go Deeper]
+[18Aug2023 20:50:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids has made the advancement [Acquire Hardware]
+[18Aug2023 20:50:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids has made the advancement [Hot Stuff]
+[18Aug2023 20:51:42.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids was kicked for floating too long!
+[18Aug2023 20:51:42.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Flying is not enabled on this server
+[18Aug2023 20:51:42.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
+[18Aug2023 20:51:42.938] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Aug2023 20:51:44.640] [User Authenticator #116/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:51:44.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58297] logged in with entity id 590019 at (-981.7799455131176, 73.14902343601518, 107.48806329725863)
+[18Aug2023 20:51:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:53:05.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids was kicked for floating too long!
+[18Aug2023 20:53:05.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Flying is not enabled on this server
+[18Aug2023 20:53:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
+[18Aug2023 20:53:07.117] [User Authenticator #117/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:53:07.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58389] logged in with entity id 590865 at (-1025.400018131463, 86.25220622866053, 67.9969595081612)
+[18Aug2023 20:53:07.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:53:14.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids was kicked for floating too long!
+[18Aug2023 20:53:14.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Flying is not enabled on this server
+[18Aug2023 20:53:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
+[18Aug2023 20:53:15.418] [User Authenticator #118/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:53:15.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58398] logged in with entity id 591361 at (-1085.7406319704503, 79.29689947310202, -34.812638713341336)
+[18Aug2023 20:53:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:53:27.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids was kicked for floating too long!
+[18Aug2023 20:53:27.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Flying is not enabled on this server
+[18Aug2023 20:53:27.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
+[18Aug2023 20:53:28.249] [User Authenticator #119/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:53:28.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58409] logged in with entity id 591888 at (-1047.5710780495854, 72.13930759624554, 1.989628836965294)
+[18Aug2023 20:53:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:55:39.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids was kicked for floating too long!
+[18Aug2023 20:55:39.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Flying is not enabled on this server
+[18Aug2023 20:55:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
+[18Aug2023 20:55:40.578] [User Authenticator #120/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DreamLovesKids is a41a7854-f779-4c0d-b454-b63226c7c047
+[18Aug2023 20:55:40.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamLovesKids[/73.20.171.187:58502] logged in with entity id 593463 at (-1431.3796105675099, 68.02898465503743, -918.4903276782204)
+[18Aug2023 20:55:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids joined the game
+[18Aug2023 20:56:58.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids tried to swim in lava to escape Skeleton
+[18Aug2023 20:57:03.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamLovesKids lost connection: Disconnected
+[18Aug2023 20:57:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DreamLovesKids left the game
