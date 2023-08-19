@@ -44,3 +44,6 @@
 [19Aug2023 08:46:27.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
 [19Aug2023 09:21:39.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [19Aug2023 09:21:39.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[19Aug2023 11:42:42.856] [User Authenticator #130/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[19Aug2023 11:42:45.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:11038] logged in with entity id 611534 at (-1441.300000011921, 62.9375, -1012.4760572560638)
+[19Aug2023 11:42:45.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
