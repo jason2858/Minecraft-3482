@@ -1,177 +1,76 @@
-[19Aug2023 06:13:46.538] [User Authenticator #121/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Aug2023 06:13:48.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:55299] logged in with entity id 594519 at (-990.1103497389286, 71.0, 93.6287912939435)
-[19Aug2023 06:13:48.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Aug2023 06:21:57.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Aug2023 06:21:57.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Aug2023 06:27:01.069] [User Authenticator #122/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Aug2023 06:27:02.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52130] logged in with entity id 596974 at (-1446.319402356565, 63.0, -986.2496467623737)
-[19Aug2023 06:27:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Aug2023 06:30:52.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Aug2023 06:30:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Aug2023 06:30:54.246] [User Authenticator #123/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 06:30:56.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:6306] logged in with entity id 598074 at (-1442.597391580666, 63.0, -1004.7272451084713)
-[19Aug2023 06:30:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 06:31:01.314] [User Authenticator #124/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Aug2023 06:31:03.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52208] logged in with entity id 598346 at (-1424.6193820319872, 63.0, -893.5087399682426)
-[19Aug2023 06:31:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Aug2023 06:31:09.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Aug2023 06:31:09.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Aug2023 06:32:30.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 06:32:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 06:35:50.145] [User Authenticator #125/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Aug2023 06:35:51.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52428] logged in with entity id 598737 at (-1424.1554775965005, 63.0, -893.9176583145291)
-[19Aug2023 06:35:51.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Aug2023 06:38:35.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Aug2023 06:38:35.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Aug2023 07:01:18.478] [User Authenticator #126/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Bettylu505 is a45b0eb0-03a1-481d-8415-4c8a4bc1b361
-[19Aug2023 07:01:20.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bettylu505[/61.65.176.123:44137] logged in with entity id 599953 at (-984.5, 75.5625, 153.5)
-[19Aug2023 07:01:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 joined the game
-[19Aug2023 07:02:26.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bettylu505 lost connection: Disconnected
-[19Aug2023 07:02:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 left the game
-[19Aug2023 07:27:56.688] [User Authenticator #127/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Aug2023 07:27:58.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:53607] logged in with entity id 600327 at (-1008.8898331358848, 85.0, 173.06393984183612)
-[19Aug2023 07:27:58.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Aug2023 07:30:11.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Aug2023 07:30:11.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Aug2023 07:39:28.694] [User Authenticator #128/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 07:39:30.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:7610] logged in with entity id 600948 at (-1442.2285850414728, 63.0, -987.7524846629333)
-[19Aug2023 07:39:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 07:48:37.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 07:48:37.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 08:46:23.296] [User Authenticator #129/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 08:46:25.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:8888] logged in with entity id 604227 at (-977.9910805852296, 71.0, 94.4586195607789)
-[19Aug2023 08:46:25.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 08:46:27.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[19Aug2023 09:21:39.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 09:21:39.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 11:42:42.856] [User Authenticator #130/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 11:42:45.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:11038] logged in with entity id 611534 at (-1441.300000011921, 62.9375, -1012.4760572560638)
-[19Aug2023 11:42:45.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 12:09:38.436] [User Authenticator #131/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 12:09:40.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:65344] logged in with entity id 616019 at (-849.8125923141848, 71.0, 196.3958005372679)
-[19Aug2023 12:09:40.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 12:17:39.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 12:17:39.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 12:18:08.156] [User Authenticator #132/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 12:18:09.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:65408] logged in with entity id 620098 at (-788.831855222904, 53.0, 207.30000001192093)
-[19Aug2023 12:18:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 12:28:32.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 12:28:32.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 12:29:57.229] [User Authenticator #133/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 12:29:58.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:65494] logged in with entity id 626821 at (-658.1449416982134, 68.0, 846.3417765199015)
-[19Aug2023 12:29:58.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 12:40:14.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 12:40:14.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 12:42:09.981] [User Authenticator #134/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 12:42:11.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:49159] logged in with entity id 632208 at (-1061.4225892171662, 43.0, 755.5001959520365)
-[19Aug2023 12:42:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 12:56:58.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 12:56:58.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 12:58:08.599] [User Authenticator #135/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 12:58:10.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:49241] logged in with entity id 637668 at (-1146.45006295672, 29.0, 702.9018271984988)
-[19Aug2023 12:58:10.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 13:07:11.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 13:07:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 13:09:24.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 13:09:24.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 13:09:38.443] [User Authenticator #136/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 13:09:40.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:49285] logged in with entity id 642138 at (-1053.6422469325753, 76.0, 57.30000001192093)
-[19Aug2023 13:09:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 13:27:04.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 13:27:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 14:39:07.734] [User Authenticator #137/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 14:39:09.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50313] logged in with entity id 644811 at (-983.3871411788806, 75.0, 151.56849354683666)
-[19Aug2023 14:39:09.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 14:50:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM was doomed to fall by Zombie
-[19Aug2023 14:51:15.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 14:51:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 14:51:26.186] [User Authenticator #138/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 14:51:27.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50367] logged in with entity id 647532 at (-31.165222960355187, 66.0, 24.1893389181338)
-[19Aug2023 14:51:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 14:51:37.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 14:51:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 14:52:35.161] [User Authenticator #139/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 14:52:36.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50394] logged in with entity id 647568 at (-31.165222960355187, 66.0, 24.1893389181338)
-[19Aug2023 14:52:36.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 14:52:41.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 14:52:41.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 14:52:51.941] [User Authenticator #140/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 14:52:53.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50403] logged in with entity id 647601 at (-31.165222960355187, 66.0, 24.1893389181338)
-[19Aug2023 14:52:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 14:53:40.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 14:53:40.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 14:58:21.894] [User Authenticator #141/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
-[19Aug2023 14:58:23.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:7938] logged in with entity id 647836 at (-328.11981463303437, 62.07326432466507, 1276.4927429767297)
-[19Aug2023 14:58:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
-[19Aug2023 15:01:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [What a Deal!]
-[19Aug2023 15:31:43.134] [User Authenticator #142/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 15:31:44.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50721] logged in with entity id 661119 at (18.491891042892775, 67.0, 14.802104665525118)
-[19Aug2023 15:31:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 15:32:09.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 15:32:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 15:32:15.676] [User Authenticator #143/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 15:32:17.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50731] logged in with entity id 661388 at (-0.5631535761750323, 64.0, 23.522023916899233)
-[19Aug2023 15:32:17.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 15:33:23.438] [User Authenticator #144/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 15:33:25.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:13515] logged in with entity id 661862 at (-1622.6854126727299, 67.0, -989.2823893561099)
-[19Aug2023 15:33:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 15:34:02.385] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 15:34:02.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 15:42:00.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM moved wrongly!
-[19Aug2023 15:42:59.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 15:42:59.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 15:43:21.952] [User Authenticator #145/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 15:43:23.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:50778] logged in with entity id 669078 at (-946.5707896880014, 72.0, 207.07357371605698)
-[19Aug2023 15:43:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 15:44:29.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of a150052) moved wrongly! 0.2691035167008522
-[19Aug2023 15:44:29.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of a150052) moved wrongly! 0.3894604063642646
-[19Aug2023 15:44:29.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of a150052) moved wrongly! 0.4769466745773343
-[19Aug2023 15:53:05.017] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 15:53:05.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 16:01:57.145] [User Authenticator #146/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[19Aug2023 16:01:58.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.86.172:13846] logged in with entity id 675887 at (-1622.6854126727299, 67.0, -989.2823893561099)
-[19Aug2023 16:01:58.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[19Aug2023 16:15:58.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
-[19Aug2023 16:15:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
-[19Aug2023 16:16:53.417] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d67356[id=<null>,name=a150052,properties={},legacy=false] (/118.168.142.190:8258) lost connection: Timed out
-[19Aug2023 16:16:58.370] [User Authenticator #147/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
-[19Aug2023 16:17:00.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:8275] logged in with entity id 682101 at (-630.9022240222412, 71.0, 382.3392162835189)
-[19Aug2023 16:17:00.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
-[19Aug2023 16:27:07.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
-[19Aug2023 16:27:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
-[19Aug2023 16:27:25.683] [User Authenticator #148/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
-[19Aug2023 16:27:27.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:8321] logged in with entity id 688117 at (-1120.2876895536872, 67.0, 288.6492744039667)
-[19Aug2023 16:27:27.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
-[19Aug2023 16:38:04.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
-[19Aug2023 16:38:04.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
-[19Aug2023 16:38:22.770] [User Authenticator #149/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
-[19Aug2023 16:38:24.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:8367] logged in with entity id 693074 at (-585.5818081708163, 62.07326432466507, 366.48901553964254)
-[19Aug2023 16:38:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
-[19Aug2023 16:58:44.862] [User Authenticator #150/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 16:58:46.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:51228] logged in with entity id 705968 at (-985.168384905725, 75.0, 151.78523026486258)
-[19Aug2023 16:58:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 17:00:14.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
-[19Aug2023 17:00:14.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
-[19Aug2023 17:00:36.538] [User Authenticator #151/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
-[19Aug2023 17:00:38.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.142.190:8446] logged in with entity id 707803 at (-772.0602900824334, 62.073264324665075, 103.92869214897541)
-[19Aug2023 17:00:38.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
-[19Aug2023 17:03:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM has made the advancement [Not Today, Thank You]
-[19Aug2023 17:03:08.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[19Aug2023 17:03:08.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[19Aug2023 17:10:40.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 17:10:40.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 17:10:50.737] [User Authenticator #152/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 17:10:52.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:51282] logged in with entity id 712204 at (-1182.3218764238109, 64.0, 492.1897578029896)
-[19Aug2023 17:10:52.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 17:10:59.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 17:10:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 17:11:03.611] [User Authenticator #153/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Aug2023 17:11:05.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.227.70:51287] logged in with entity id 712530 at (-1179.4266622357668, 63.0, 484.5886530525563)
-[19Aug2023 17:11:05.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Aug2023 17:14:46.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Aug2023 17:14:46.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
-[19Aug2023 17:27:05.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
-[19Aug2023 17:27:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
-[19Aug2023 19:03:12.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /155.248.209.22:61570 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet 0
-[19Aug2023 19:16:12.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /155.248.209.22:61570 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet 0
-[19Aug2023 22:55:05.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@846388f[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:50838) lost connection: Disconnected
+[20Aug2023 06:56:01.651] [User Authenticator #154/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Aug2023 06:56:03.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:52987] logged in with entity id 716776 at (-996.1707568995339, 75.0, 171.21821462331766)
+[20Aug2023 06:56:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Aug2023 07:01:57.574] [User Authenticator #155/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /198.199.72.162:60120: Failed to verify username!
+[20Aug2023 07:01:57.577] [User Authenticator #155/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'Herobrine' tried to join with an invalid session
+[20Aug2023 07:01:57.617] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /198.199.72.162:60120 lost connection: Failed to verify username!
+[20Aug2023 07:02:07.955] [User Authenticator #156/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player matscan is ff47729b-d0d2-4af0-98b1-1c0a7e1b0eef
+[20Aug2023 07:02:08.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: matscan[/198.199.72.162:44560] logged in with entity id 718313 at (25.5, 64.0, -15.5)
+[20Aug2023 07:02:08.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matscan joined the game
+[20Aug2023 07:02:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <matscan> Hello. I'm a friendly bot that scans the internet for Minecraft servers.
+[20Aug2023 07:02:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <matscan> This server isn't whitelisted, which means griefers can and probably will join it. To avoid this you must whitelist the server with the commands '/whitelist on' and '/whitelist add <player>'.
+[20Aug2023 07:02:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <matscan> If it was meant to be public, please ensure that the server is taking frequent backups to prevent permanent damage in the event that it is targeted.
+[20Aug2023 07:02:08.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <matscan> - mat | FAQ: https://matdoes.dev/matscan
+[20Aug2023 07:02:10.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: matscan lost connection: Disconnected
+[20Aug2023 07:02:10.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: matscan left the game
+[20Aug2023 07:35:13.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Aug2023 07:35:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Aug2023 07:45:44.254] [User Authenticator #157/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Aug2023 07:45:46.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:53265] logged in with entity id 724167 at (-1011.8605104691223, 80.0, 151.89528280483484)
+[20Aug2023 07:45:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Aug2023 08:31:28.830] [User Authenticator #158/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 08:31:30.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:1553] logged in with entity id 730897 at (-986.3838729415587, 75.0, 150.73067871519123)
+[20Aug2023 08:31:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 09:13:15.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 09:13:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 09:38:19.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Aug2023 09:38:19.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Aug2023 09:43:14.608] [User Authenticator #159/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Aug2023 09:43:16.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:55478] logged in with entity id 742924 at (-821.8924068068952, 64.0, 145.8477667318065)
+[20Aug2023 09:43:16.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Aug2023 09:53:14.114] [User Authenticator #160/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 09:53:16.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:1830] logged in with entity id 744970 at (-1251.5, 71.0, -125.5)
+[20Aug2023 09:53:16.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 09:54:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zzz
+[20Aug2023 09:56:33.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 09:56:33.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 09:57:02.546] [User Authenticator #161/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 09:57:04.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:1845] logged in with entity id 746663 at (-972.5758217180036, 62.07326432466507, -56.53817583622757)
+[20Aug2023 09:57:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 10:07:33.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Aug2023 10:07:33.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Aug2023 10:16:59.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 10:16:59.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 11:46:35.647] [User Authenticator #162/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Aug2023 11:46:37.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:56024] logged in with entity id 754214 at (-794.6999999880791, 94.0, 288.93283904084814)
+[20Aug2023 11:46:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Aug2023 11:54:05.270] [User Authenticator #163/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 11:54:06.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:2293] logged in with entity id 755640 at (-960.361080358863, 63.0, -1373.8159391237248)
+[20Aug2023 11:54:06.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 11:55:16.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 11:55:16.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 12:25:55.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Aug2023 12:25:55.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Aug2023 13:30:01.564] [User Authenticator #164/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Aug2023 13:30:03.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.139.162:56559] logged in with entity id 761292 at (-1051.4836915012438, 48.0, 173.38871261601457)
+[20Aug2023 13:30:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Aug2023 13:47:46.927] [User Authenticator #165/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 13:47:48.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:3125] logged in with entity id 764167 at (-960.647402779971, 63.0, -1373.1071326647461)
+[20Aug2023 13:47:48.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 13:50:45.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zzz
+[20Aug2023 14:01:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> zzz
+[20Aug2023 14:03:55.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 14:03:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 14:04:02.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Aug2023 14:04:02.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Aug2023 15:29:53.828] [User Authenticator #166/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 15:29:55.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:3690] logged in with entity id 772265 at (-986.1558840019475, 75.0, 150.70986590376708)
+[20Aug2023 15:29:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 15:30:11.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 15:30:11.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[20Aug2023 15:48:57.522] [User Authenticator #167/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[20Aug2023 15:48:59.222] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.149.59:3876] logged in with entity id 772588 at (-986.1558840019475, 75.0, 150.70986590376708)
+[20Aug2023 15:48:59.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[20Aug2023 16:20:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [Fishy Business]
+[20Aug2023 16:24:30.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[20Aug2023 16:24:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game

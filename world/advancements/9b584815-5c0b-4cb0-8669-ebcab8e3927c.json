@@ -23,6 +23,7 @@
       "minecraft:deep_cold_ocean": "2023-08-14 13:58:51 +0000",
       "minecraft:frozen_ocean": "2023-08-12 17:01:06 +0000",
       "minecraft:ocean": "2023-08-12 15:19:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-08-20 13:52:32 +0000",
       "minecraft:old_growth_birch_forest": "2023-08-12 15:54:10 +0000",
       "minecraft:savanna": "2023-08-12 15:27:12 +0000",
       "minecraft:plains": "2023-08-12 17:10:12 +0000"
@@ -1251,6 +1252,8 @@
     "criteria": {
       "minecraft:skeleton": "2023-08-15 11:30:25 +0000",
       "minecraft:spider": "2023-08-12 16:11:21 +0000",
+      "minecraft:creeper": "2023-08-20 09:58:28 +0000",
+      "minecraft:slime": "2023-08-20 16:02:13 +0000",
       "minecraft:zombie": "2023-08-15 12:06:22 +0000",
       "minecraft:zombie_villager": "2023-08-15 12:27:07 +0000"
     },
@@ -1832,6 +1835,84 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2023-08-19 16:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-08-20 10:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-08-20 10:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-08-20 10:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-08-20 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-08-20 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2023-08-20 16:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-08-20 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-08-20 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-08-20 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-08-20 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-08-20 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-08-20 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-08-20 16:02:15 +0000"
     },
     "done": true
   },
