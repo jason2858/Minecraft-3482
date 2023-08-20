@@ -172,3 +172,6 @@
 [19Aug2023 17:14:46.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
 [19Aug2023 17:27:05.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
 [19Aug2023 17:27:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[19Aug2023 19:03:12.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /155.248.209.22:61570 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[19Aug2023 19:16:12.704] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /155.248.209.22:61570 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet 2/0 (ServerboundHelloPacket) was larger than I expected, found 1 bytes extra whilst reading packet 0
+[19Aug2023 22:55:05.857] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@846388f[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:50838) lost connection: Disconnected
