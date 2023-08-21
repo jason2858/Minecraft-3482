@@ -1472,6 +1472,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2023-08-21 12:05:54 +0000",
       "minecraft:basalt_deltas": "2023-08-15 14:23:02 +0000"
     },
     "done": false
@@ -1953,6 +1954,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-08-19 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-08-21 12:06:09 +0000"
     },
     "done": true
   },

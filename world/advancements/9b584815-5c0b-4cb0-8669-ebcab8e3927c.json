@@ -1856,13 +1856,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_salmon": "2023-08-20 16:21:41 +0000"
+      "has_slime_ball": "2023-08-20 16:02:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-08-20 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-08-20 16:02:15 +0000"
     },
@@ -1880,6 +1886,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-08-20 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-08-20 16:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-08-20 16:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2023-08-20 16:21:41 +0000"
@@ -1892,27 +1916,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_cod": "2023-08-20 16:20:36 +0000"
+      "tamed_animal": "2023-08-21 12:40:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_slime_ball": "2023-08-20 16:02:15 +0000"
+      "minecraft:basalt_deltas": "2023-08-21 13:13:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-08-21 13:13:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_cod": "2023-08-20 16:20:36 +0000"
+      "entered_nether": "2023-08-21 13:13:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "has_slime_ball": "2023-08-20 16:02:15 +0000"
+      "has_bamboo": "2023-08-21 13:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-08-21 13:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-08-21 12:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-08-21 13:05:22 +0000"
     },
     "done": true
   },
