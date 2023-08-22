@@ -1,7 +1,7 @@
 cd /home/minecraft/mcserver/server
 
 git status
-git add .
+git add -A
 git commit -m "$(date)"
 git push -f origin main
 

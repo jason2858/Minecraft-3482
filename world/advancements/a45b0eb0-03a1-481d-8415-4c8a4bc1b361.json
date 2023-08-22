@@ -7,10 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-08-22 14:50:18 +0000",
       "minecraft:taiga": "2023-08-12 15:31:55 +0000",
       "minecraft:deep_ocean": "2023-08-12 15:20:18 +0000",
       "minecraft:birch_forest": "2023-08-12 15:09:27 +0000",
       "minecraft:beach": "2023-08-12 15:08:59 +0000",
+      "minecraft:dark_forest": "2023-08-22 14:50:29 +0000",
+      "minecraft:sparse_jungle": "2023-08-22 14:57:36 +0000",
       "minecraft:lukewarm_ocean": "2023-08-12 15:23:09 +0000",
       "minecraft:river": "2023-08-12 15:18:35 +0000",
       "minecraft:stony_shore": "2023-08-12 15:27:39 +0000",
@@ -19,7 +22,11 @@
       "minecraft:cold_ocean": "2023-08-12 16:56:17 +0000",
       "minecraft:forest": "2023-08-12 15:09:54 +0000",
       "minecraft:lush_caves": "2023-08-13 12:53:29 +0000",
+      "minecraft:deep_cold_ocean": "2023-08-22 14:31:53 +0000",
+      "minecraft:frozen_ocean": "2023-08-22 14:47:32 +0000",
+      "minecraft:deep_frozen_ocean": "2023-08-22 14:45:29 +0000",
       "minecraft:ocean": "2023-08-12 15:19:16 +0000",
+      "minecraft:jungle": "2023-08-22 14:57:05 +0000",
       "minecraft:plains": "2023-08-12 16:56:34 +0000"
     },
     "done": false
@@ -1662,6 +1669,84 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2023-08-16 16:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-08-22 14:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2023-08-22 14:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-08-22 15:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-08-22 15:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-08-22 15:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2023-08-22 14:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2023-08-22 14:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2023-08-22 14:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2023-08-22 14:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2023-08-22 14:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2023-08-22 14:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2023-08-22 14:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-08-22 15:11:43 +0000"
     },
     "done": true
   },
