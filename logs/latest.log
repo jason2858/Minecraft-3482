@@ -1,71 +1,44 @@
-[22Aug2023 16:50:20.522] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.1.44, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, -nogui]
-[22Aug2023 16:50:20.528] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.1 by Oracle Corporation; OS Linux arch amd64 version 5.19.0-1030-gcp
-[22Aug2023 16:50:20.707] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Aug2023 16:50:20.797] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/minecraft/mcserver/server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Aug2023 16:50:21.163] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/minecraft/mcserver/server/libraries/net/minecraftforge/fmlcore/1.20.1-47.1.44/fmlcore-1.20.1-47.1.44.jar is missing mods.toml file
-[22Aug2023 16:50:21.167] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/minecraft/mcserver/server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.1.44/javafmllanguage-1.20.1-47.1.44.jar is missing mods.toml file
-[22Aug2023 16:50:21.170] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/minecraft/mcserver/server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.1.44/lowcodelanguage-1.20.1-47.1.44.jar is missing mods.toml file
-[22Aug2023 16:50:21.174] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/minecraft/mcserver/server/libraries/net/minecraftforge/mclanguage/1.20.1-47.1.44/mclanguage-1.20.1-47.1.44.jar is missing mods.toml file
-[22Aug2023 16:50:21.312] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[22Aug2023 16:50:23.186] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [-nogui]
-[22Aug2023 16:50:30.524] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.44, for MC 1.20.1 with MCP 20230612.114412
-[22Aug2023 16:50:30.527] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.44 Initialized
-[22Aug2023 16:50:31.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Aug2023 16:50:32.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.1.44 Target: null
-[22Aug2023 16:50:33.081] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Aug2023 16:50:34.059] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/minecraft/mcserver/server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[22Aug2023 16:50:34.060] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/minecraft/mcserver/server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[22Aug2023 16:50:36.281] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[22Aug2023 16:50:36.448] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[22Aug2023 16:50:37.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Aug2023 16:50:37.152] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Aug2023 16:50:37.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Aug2023 16:50:37.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Aug2023 16:50:37.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Aug2023 16:50:37.406] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Aug2023 16:50:37.543] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedPlayerList/]: Failed to load operators list: 
-com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "Cha...27"
-	at net.minecraft.util.GsonHelper.m_13918_(GsonHelper.java:413) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.players.StoredUserList.m_11399_(StoredUserList.java:122) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.m_139597_(DedicatedPlayerList.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:158) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23101!/:?]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-[22Aug2023 16:50:37.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Aug2023 16:50:42.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Aug2023 16:50:46.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:46.839] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:46.911] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:46.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:46.994] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.007] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.077] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.102] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.116] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.497] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:47.960] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:48.455] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:48.952] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:49.451] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Aug2023 16:50:49.993] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[22Aug2023 16:50:50.452] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[22Aug2023 16:50:50.780] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8330 ms
-[22Aug2023 16:50:50.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.236s)! For help, type "help"
-[22Aug2023 16:50:50.810] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Aug2023 17:07:47.321] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[22Aug2023 17:07:49.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.32.145:50122] logged in with entity id 81 at (-994.8251389254979, 81.0, 137.36565796620425)
-[22Aug2023 17:07:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[22Aug2023 17:07:52.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[22Aug2023 17:07:57.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[22Aug2023 17:07:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[22Aug2023 18:48:40.071] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Syzureax is d2fd1fcd-3e75-453d-ad74-d1a55b03531b
-[22Aug2023 18:48:40.171] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1373df4c[id=d2fd1fcd-3e75-453d-ad74-d1a55b03531b,name=Syzureax,properties={textures=[com.mojang.authlib.properties.Property@4323ba85]},legacy=false] (/77.190.24.174:52982): You are not white-listed on this server!
-[22Aug2023 18:48:40.172] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1373df4c[id=d2fd1fcd-3e75-453d-ad74-d1a55b03531b,name=Syzureax,properties={textures=[com.mojang.authlib.properties.Property@4323ba85]},legacy=false] (/77.190.24.174:52982) lost connection: You are not white-listed on this server!
-[22Aug2023 18:48:40.211] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Aug2023 18:51:28.474] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Syzureax is d2fd1fcd-3e75-453d-ad74-d1a55b03531b
-[22Aug2023 18:51:28.561] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@376f562c[id=d2fd1fcd-3e75-453d-ad74-d1a55b03531b,name=Syzureax,properties={textures=[com.mojang.authlib.properties.Property@7ee06647]},legacy=false] (/77.190.24.174:53086): You are not white-listed on this server!
-[22Aug2023 18:51:28.562] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@376f562c[id=d2fd1fcd-3e75-453d-ad74-d1a55b03531b,name=Syzureax,properties={textures=[com.mojang.authlib.properties.Property@7ee06647]},legacy=false] (/77.190.24.174:53086) lost connection: You are not white-listed on this server!
-[22Aug2023 18:51:28.610] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Aug2023 14:15:55.762] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cc2a84c[id=<null>,name=JasonFox_Chang,properties={},legacy=false] (/114.25.32.145:65105) lost connection: Disconnected
+[23Aug2023 14:18:27.695] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[23Aug2023 14:18:29.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.32.145:65394] logged in with entity id 478 at (-994.8251389254979, 81.0, 137.36565796620425)
+[23Aug2023 14:18:29.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[23Aug2023 15:19:34.759] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[23Aug2023 15:19:36.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.166.71:4392] logged in with entity id 11320 at (-985.5, 75.5625, 153.5)
+[23Aug2023 15:19:36.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[23Aug2023 15:20:35.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> zzz
+[23Aug2023 15:51:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> 你可以裝整理背包的模組
+[23Aug2023 15:51:32.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[23Aug2023 15:51:32.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[23Aug2023 15:54:22.321] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[23Aug2023 15:54:24.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.166.71:4834] logged in with entity id 17996 at (-989.6769649265015, 76.0, 148.85790994219258)
+[23Aug2023 15:54:24.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[23Aug2023 15:55:20.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [Ice Bucket Challenge]
+[23Aug2023 16:18:01.577] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[23Aug2023 16:18:03.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.87.184:11712] logged in with entity id 22335 at (-985.4791197611138, 75.5625, 152.01252383391108)
+[23Aug2023 16:18:03.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[23Aug2023 16:25:55.051] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
+[23Aug2023 16:25:56.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.222.240:64604] logged in with entity id 23863 at (-1475.7911336852608, 68.0, 383.11785794042146)
+[23Aug2023 16:25:56.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
+[23Aug2023 16:25:58.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[23Aug2023 16:27:54.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
+[23Aug2023 16:27:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
+[23Aug2023 16:28:03.758] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
+[23Aug2023 16:28:05.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.222.240:64649] logged in with entity id 24772 at (-1482.0382686304115, 69.0, 404.66092541679626)
+[23Aug2023 16:28:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
+[23Aug2023 16:38:44.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
+[23Aug2023 16:38:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
+[23Aug2023 16:39:07.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <a150052> ZZZ
+[23Aug2023 16:43:54.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[23Aug2023 16:43:54.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[23Aug2023 16:45:33.762] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[23Aug2023 16:45:35.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.87.184:12160] logged in with entity id 30884 at (-1049.4832130092218, 70.17675927506424, 8.872531103728726)
+[23Aug2023 16:45:35.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[23Aug2023 16:51:13.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> ZZZ
+[23Aug2023 17:04:17.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> ZZZ
+[23Aug2023 17:04:29.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[23Aug2023 17:04:29.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[23Aug2023 17:23:37.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-890, y=81, z=265} BlockPos{x=-891, y=80, z=265}
+[23Aug2023 17:24:55.127] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[23Aug2023 17:24:55.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[23Aug2023 17:45:23.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[23Aug2023 17:45:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
