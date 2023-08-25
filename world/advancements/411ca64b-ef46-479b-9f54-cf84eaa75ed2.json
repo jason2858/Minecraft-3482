@@ -3054,15 +3054,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_salmon": "2023-08-24 15:14:55 +0000"
+      "has_allium": "2023-08-24 14:51:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_cod": "2023-08-24 15:15:54 +0000"
+      "has_salmon": "2023-08-24 15:14:55 +0000"
     },
     "done": true
   },
@@ -3078,15 +3078,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2023-08-24 15:15:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "has_hay_block": "2023-08-24 15:47:54 +0000"
+      "has_cod": "2023-08-24 15:15:54 +0000"
     },
     "done": true
   },
@@ -3096,9 +3096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_allium": "2023-08-24 14:51:17 +0000"
+      "has_hay_block": "2023-08-24 15:47:54 +0000"
     },
     "done": true
   },
