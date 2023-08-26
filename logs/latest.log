@@ -13,3 +13,14 @@
 [26Aug2023 08:18:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
 [26Aug2023 09:15:22.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
 [26Aug2023 09:15:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[26Aug2023 13:05:48.163] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47864585[id=<null>,name=a150052,properties={},legacy=false] (/118.168.166.71:13184) lost connection: Disconnected
+[26Aug2023 13:05:52.125] [User Authenticator #29/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[26Aug2023 13:05:53.936] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.166.71:13220] logged in with entity id 253983 at (-926.720504069495, 69.0, 150.4564621033177)
+[26Aug2023 13:05:53.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[26Aug2023 13:16:25.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-922, y=61, z=79} BlockPos{x=-922, y=62, z=79}
+[26Aug2023 14:05:26.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of a150052) moved wrongly! 0.3635697844981678
+[26Aug2023 14:07:34.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2097, y=100, z=707} BlockPos{x=2098, y=101, z=708}
+[26Aug2023 14:14:45.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2192, y=109, z=645} BlockPos{x=2191, y=109, z=646}
+[26Aug2023 14:18:38.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2216, y=112, z=649} BlockPos{x=2215, y=112, z=648}
+[26Aug2023 14:52:52.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[26Aug2023 14:52:52.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
