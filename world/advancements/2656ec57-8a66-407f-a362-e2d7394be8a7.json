@@ -3367,5 +3367,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2023-08-26 06:01:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

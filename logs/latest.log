@@ -1,3 +1,15 @@
 [26Aug2023 05:17:18.254] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
 [26Aug2023 05:17:20.234] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.68.21:9530] logged in with entity id 222473 at (-1045.1570241231225, 76.0, 145.79057964521022)
 [26Aug2023 05:17:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[26Aug2023 06:05:08.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[26Aug2023 06:05:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[26Aug2023 06:44:48.052] [User Authenticator #27/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[26Aug2023 06:44:49.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.68.21:9812] logged in with entity id 234092 at (-994.5, 76.5625, 154.5)
+[26Aug2023 06:44:49.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[26Aug2023 07:32:58.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[26Aug2023 07:32:58.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[26Aug2023 08:18:27.180] [User Authenticator #28/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[26Aug2023 08:18:29.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.168.252:49805] logged in with entity id 242559 at (-852.5030004837108, 66.0, 27.690145737822093)
+[26Aug2023 08:18:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[26Aug2023 09:15:22.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[26Aug2023 09:15:22.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
