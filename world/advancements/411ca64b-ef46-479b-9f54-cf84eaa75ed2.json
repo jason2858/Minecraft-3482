@@ -1167,6 +1167,7 @@
       "minecraft:creeper": "2023-08-14 17:34:08 +0000",
       "minecraft:zombified_piglin": "2023-08-21 17:13:24 +0000",
       "minecraft:cave_spider": "2023-08-15 15:25:21 +0000",
+      "minecraft:enderman": "2023-08-27 13:14:31 +0000",
       "minecraft:zombie": "2023-08-13 07:46:22 +0000",
       "minecraft:zombie_villager": "2023-08-14 17:44:26 +0000"
     },
@@ -3102,15 +3103,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_white_dye": "2023-08-26 08:40:15 +0000"
+      "has_bow": "2023-08-26 08:19:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_minecart": "2023-08-26 08:54:20 +0000"
+      "has_white_dye": "2023-08-26 08:40:15 +0000"
     },
     "done": true
   },
@@ -3132,27 +3133,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2023-08-26 08:54:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2023-08-26 08:54:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2023-08-26 08:40:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2023-08-26 08:19:10 +0000"
     },
     "done": true
   },
@@ -3165,12 +3148,6 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2023-08-26 08:40:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2023-08-26 08:54:20 +0000"
     },
     "done": true
   },
@@ -3192,9 +3169,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-08-26 08:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-08-26 08:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-08-26 08:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-08-26 08:54:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-08-26 08:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-08-27 12:28:44 +0000"
     },
     "done": true
   },
