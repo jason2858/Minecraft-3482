@@ -40,3 +40,5 @@
 [27Aug2023 17:02:07.595] [User Authenticator #37/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
 [27Aug2023 17:02:09.535] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.58.60:50138] logged in with entity id 344065 at (-995.3223558412715, 76.0, 151.74053450813705)
 [27Aug2023 17:02:09.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[27Aug2023 18:45:57.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[27Aug2023 18:45:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
