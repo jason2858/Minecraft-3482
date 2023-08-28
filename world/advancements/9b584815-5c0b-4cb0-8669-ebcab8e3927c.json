@@ -20,17 +20,21 @@
       "minecraft:river": "2023-08-12 15:11:26 +0000",
       "minecraft:lukewarm_ocean": "2023-08-12 15:23:30 +0000",
       "minecraft:stony_shore": "2023-08-12 15:27:26 +0000",
+      "minecraft:snowy_plains": "2023-08-28 14:52:39 +0000",
       "minecraft:snowy_taiga": "2023-08-12 17:00:03 +0000",
       "minecraft:dripstone_caves": "2023-08-26 13:35:06 +0000",
       "minecraft:swamp": "2023-08-25 16:21:45 +0000",
       "minecraft:cold_ocean": "2023-08-12 17:06:17 +0000",
       "minecraft:forest": "2023-08-12 14:50:13 +0000",
       "minecraft:deep_cold_ocean": "2023-08-14 13:58:51 +0000",
+      "minecraft:ice_spikes": "2023-08-28 15:19:32 +0000",
       "minecraft:frozen_ocean": "2023-08-12 17:01:06 +0000",
       "minecraft:desert": "2023-08-25 16:54:04 +0000",
+      "minecraft:deep_frozen_ocean": "2023-08-28 14:57:13 +0000",
       "minecraft:ocean": "2023-08-12 15:19:15 +0000",
       "minecraft:jungle": "2023-08-25 16:42:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-08-20 13:52:32 +0000",
+      "minecraft:snowy_beach": "2023-08-28 14:52:13 +0000",
       "minecraft:windswept_savanna": "2023-08-25 16:15:47 +0000",
       "minecraft:warm_ocean": "2023-08-25 16:53:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-08-25 16:40:55 +0000",
@@ -1263,6 +1267,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-08-15 11:30:25 +0000",
+      "minecraft:magma_cube": "2023-08-28 16:10:30 +0000",
       "minecraft:spider": "2023-08-12 16:11:21 +0000",
       "minecraft:creeper": "2023-08-20 09:58:28 +0000",
       "minecraft:slime": "2023-08-20 16:02:13 +0000",
@@ -1960,6 +1965,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2023-08-28 16:08:38 +0000",
       "minecraft:basalt_deltas": "2023-08-21 13:13:12 +0000"
     },
     "done": false
@@ -2810,27 +2816,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2023-08-26 14:35:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
       "has_pink_petals": "2023-08-26 14:07:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2023-08-26 14:34:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2023-08-26 14:23:23 +0000"
     },
     "done": true
   },
@@ -2843,6 +2831,78 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2023-08-26 14:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-08-26 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2023-08-26 14:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2023-08-26 14:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-08-28 14:26:12 +0000"
     },
     "done": true
   },
