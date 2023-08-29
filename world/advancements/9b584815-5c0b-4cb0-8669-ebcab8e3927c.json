@@ -17,6 +17,7 @@
       "minecraft:bamboo_jungle": "2023-08-26 14:40:20 +0000",
       "minecraft:beach": "2023-08-12 14:49:12 +0000",
       "minecraft:dark_forest": "2023-08-12 15:53:44 +0000",
+      "minecraft:sparse_jungle": "2023-08-29 13:48:25 +0000",
       "minecraft:river": "2023-08-12 15:11:26 +0000",
       "minecraft:lukewarm_ocean": "2023-08-12 15:23:30 +0000",
       "minecraft:stony_shore": "2023-08-12 15:27:26 +0000",
@@ -2903,6 +2904,36 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2023-08-28 14:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-08-29 13:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2023-08-29 13:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2023-08-29 13:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-08-29 13:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2023-08-29 14:00:39 +0000"
     },
     "done": true
   },
