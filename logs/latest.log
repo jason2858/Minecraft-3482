@@ -3,3 +3,9 @@
 [02Sep2023 03:44:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
 [02Sep2023 05:42:37.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [02Sep2023 05:42:37.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[02Sep2023 08:32:54.863] [User Authenticator #56/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[02Sep2023 08:32:56.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.95.195:14859] logged in with entity id 586208 at (-987.4360375170783, 76.0, 149.86371566518866)
+[02Sep2023 08:32:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[02Sep2023 10:46:20.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Is It a Balloon?]
+[02Sep2023 10:48:27.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[02Sep2023 10:48:27.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
