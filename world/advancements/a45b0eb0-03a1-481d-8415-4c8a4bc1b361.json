@@ -29,6 +29,7 @@
       "minecraft:jungle": "2023-08-22 14:57:05 +0000",
       "minecraft:flower_forest": "2023-08-24 15:21:10 +0000",
       "minecraft:meadow": "2023-08-24 14:50:34 +0000",
+      "minecraft:savanna": "2023-09-03 06:58:48 +0000",
       "minecraft:plains": "2023-08-12 16:56:34 +0000"
     },
     "done": false
@@ -1221,6 +1222,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2023-08-16 15:39:59 +0000",
+      "minecraft:ocelot": "2023-09-03 08:11:55 +0000",
       "minecraft:cow": "2023-08-15 15:15:48 +0000",
       "minecraft:chicken": "2023-08-16 15:38:36 +0000"
     },
@@ -1809,13 +1811,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_dandelion": "2023-08-27 15:24:07 +0000"
+      "has_minecart": "2023-08-27 15:09:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-08-27 15:09:20 +0000"
     },
@@ -1827,9 +1829,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_minecart": "2023-08-27 15:09:20 +0000"
+      "has_dandelion": "2023-08-27 15:24:07 +0000"
     },
     "done": true
   },
