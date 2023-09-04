@@ -3372,27 +3372,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_bed": {
-    "criteria": {
-      "has_orange_wool": "2023-09-02 18:32:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_purple_wool": "2023-09-02 17:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_banner": {
+  "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "has_orange_wool": "2023-09-02 18:32:54 +0000"
+      "has_purple_wool": "2023-09-02 17:53:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
+  "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
-      "has_green_wool": "2023-09-02 18:36:12 +0000"
+      "has_purple_wool": "2023-09-02 17:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2023-09-02 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-09-02 18:05:17 +0000"
     },
     "done": true
   },
@@ -3414,9 +3420,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_banner": {
+  "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
-      "has_green_wool": "2023-09-02 18:36:12 +0000"
+      "has_magenta_dye": "2023-09-02 18:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2023-09-02 18:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2023-09-02 18:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2023-09-02 18:32:54 +0000"
     },
     "done": true
   },
@@ -3432,51 +3456,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2023-09-02 18:36:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_light_blue_wool": "2023-09-02 18:36:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_carpet": {
+  "minecraft:recipes/decorations/green_bed": {
     "criteria": {
-      "has_purple_wool": "2023-09-02 17:53:52 +0000"
+      "has_green_wool": "2023-09-02 18:36:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+  "minecraft:recipes/decorations/green_banner": {
     "criteria": {
-      "has_orange_tulip": "2023-09-02 18:05:16 +0000"
+      "has_green_wool": "2023-09-02 18:36:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_candle": {
+  "minecraft:recipes/decorations/green_carpet": {
     "criteria": {
-      "has_magenta_dye": "2023-09-02 18:07:21 +0000"
+      "has_green_wool": "2023-09-02 18:36:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_carpet": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "has_orange_wool": "2023-09-02 18:32:54 +0000"
+      "has_amethyst_shard": "2023-09-04 16:06:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "has_purple_wool": "2023-09-02 17:53:52 +0000"
+      "has_amethyst_shard": "2023-09-04 16:06:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_allium": "2023-09-02 18:05:17 +0000"
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-09-04 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-09-04 16:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2023-09-04 16:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-09-04 16:06:50 +0000"
     },
     "done": true
   },
