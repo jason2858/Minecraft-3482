@@ -1170,6 +1170,7 @@
       "minecraft:magma_cube": "2023-08-17 17:04:25 +0000",
       "minecraft:spider": "2023-08-13 07:45:05 +0000",
       "minecraft:creeper": "2023-08-14 17:34:08 +0000",
+      "minecraft:slime": "2023-09-06 17:15:04 +0000",
       "minecraft:zombified_piglin": "2023-08-21 17:13:24 +0000",
       "minecraft:cave_spider": "2023-08-15 15:25:21 +0000",
       "minecraft:enderman": "2023-08-27 13:14:31 +0000",
@@ -3463,15 +3464,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2023-09-03 12:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2023-09-03 12:32:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_raw_copper_block": "2023-09-03 12:12:22 +0000"
+      "shot_arrow": "2023-09-06 17:47:50 +0000"
     },
     "done": true
   },
