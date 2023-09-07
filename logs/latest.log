@@ -6,3 +6,5 @@
 [06Sep2023 16:28:11.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang fell from a high place
 [06Sep2023 16:47:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang was doomed to fall by Skeleton
 [06Sep2023 17:47:50.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang has made the advancement [Take Aim]
+[06Sep2023 18:01:32.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[06Sep2023 18:01:32.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
