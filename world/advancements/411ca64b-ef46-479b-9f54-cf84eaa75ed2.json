@@ -3489,5 +3489,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-09-11 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2023-09-11 17:13:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
