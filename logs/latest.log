@@ -5,3 +5,10 @@
 [16Sep2023 03:19:22.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Cave Spider
 [16Sep2023 03:59:18.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [16Sep2023 03:59:18.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[16Sep2023 08:27:02.494] [User Authenticator #101/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Bettylu505 is a45b0eb0-03a1-481d-8415-4c8a4bc1b361
+[16Sep2023 08:27:04.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bettylu505[/61.65.176.123:40984] logged in with entity id 1305208 at (-996.5408758207867, 76.0, 152.22796689105053)
+[16Sep2023 08:27:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 joined the game
+[16Sep2023 08:33:17.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 has made the advancement [Suit Up]
+[16Sep2023 08:35:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 has made the advancement [Enchanter]
+[16Sep2023 08:50:32.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bettylu505 lost connection: Disconnected
+[16Sep2023 08:50:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 left the game
