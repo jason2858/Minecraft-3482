@@ -12,3 +12,22 @@
 [16Sep2023 08:35:33.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 has made the advancement [Enchanter]
 [16Sep2023 08:50:32.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bettylu505 lost connection: Disconnected
 [16Sep2023 08:50:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 left the game
+[16Sep2023 12:50:06.459] [User Authenticator #102/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[16Sep2023 12:50:08.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.96.158:4771] logged in with entity id 1309955 at (-985.6308217951059, 76.0, 150.93479083475185)
+[16Sep2023 12:50:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[16Sep2023 14:26:58.931] [User Authenticator #103/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[16Sep2023 14:27:00.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.154.119:13806] logged in with entity id 1329838 at (-990.4681187668667, 76.0, 150.28188136283754)
+[16Sep2023 14:27:00.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[16Sep2023 14:27:50.734] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[16Sep2023 14:27:50.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[16Sep2023 14:28:08.432] [User Authenticator #104/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[16Sep2023 14:28:10.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.96.158:5303] logged in with entity id 1330467 at (-1359.6214363372449, -2.0, 234.80346737028262)
+[16Sep2023 14:28:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[16Sep2023 14:32:09.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 has made the advancement [Enchanter]
+[16Sep2023 16:14:34.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[16Sep2023 16:14:34.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[16Sep2023 16:14:41.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[16Sep2023 16:14:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[16Sep2023 17:20:46.657] [User Authenticator #105/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[16Sep2023 17:20:48.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.185.66:57963] logged in with entity id 1371261 at (-1056.8532218402322, -11.8125, 201.54503665558155)
+[16Sep2023 17:20:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
