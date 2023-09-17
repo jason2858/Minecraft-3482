@@ -10,3 +10,13 @@
 [17Sep2023 09:43:18.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
 [17Sep2023 10:09:41.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
 [17Sep2023 10:09:41.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[17Sep2023 15:27:58.659] [User Authenticator #108/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[17Sep2023 15:28:00.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.96.158:13944] logged in with entity id 1396772 at (-980.5955620078682, 76.0, 150.90541934672672)
+[17Sep2023 15:28:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[17Sep2023 15:56:19.915] [User Authenticator #109/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[17Sep2023 15:56:21.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.185.66:49366] logged in with entity id 1403355 at (-995.6740128599262, 76.0, 162.07250458078155)
+[17Sep2023 15:56:21.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[17Sep2023 16:06:45.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1083, y=65, z=203} BlockPos{x=-1082, y=63, z=204}
+[17Sep2023 16:06:49.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1082, y=65, z=212} BlockPos{x=-1082, y=63, z=213}
+[17Sep2023 16:18:59.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[17Sep2023 16:18:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
