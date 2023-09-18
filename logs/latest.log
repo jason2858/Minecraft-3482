@@ -20,3 +20,6 @@
 [17Sep2023 16:06:49.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1082, y=65, z=212} BlockPos{x=-1082, y=63, z=213}
 [17Sep2023 16:18:59.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [17Sep2023 16:18:59.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[17Sep2023 19:18:17.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[17Sep2023 19:18:17.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[17Sep2023 19:24:09.015] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17dc4937[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:47378) lost connection: Disconnected
