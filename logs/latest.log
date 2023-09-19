@@ -1,10 +1,17 @@
-[18Sep2023 13:51:24.527] [User Authenticator #110/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[18Sep2023 13:51:26.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.54.232:61448] logged in with entity id 1431807 at (-1056.042087758329, -13.0, 201.5722083518039)
-[18Sep2023 13:51:26.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[18Sep2023 13:58:32.506] [User Authenticator #111/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[18Sep2023 13:58:34.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.96.158:6885] logged in with entity id 1433508 at (-995.7572712386733, 76.0, 149.25988575730713)
-[18Sep2023 13:58:34.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[18Sep2023 14:20:52.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[18Sep2023 14:20:52.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[18Sep2023 14:48:56.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[18Sep2023 14:48:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[19Sep2023 13:31:38.895] [User Authenticator #112/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[19Sep2023 13:31:41.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.54.232:50408] logged in with entity id 1445634 at (-974.3658746432138, 74.0, 147.53748870668412)
+[19Sep2023 13:31:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[19Sep2023 14:14:57.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-944, y=67, z=173} BlockPos{x=-943, y=67, z=174}
+[19Sep2023 14:31:50.047] [User Authenticator #113/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[19Sep2023 14:31:51.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.70.121:4201] logged in with entity id 1458399 at (-998.5, 76.0, 147.5)
+[19Sep2023 14:31:51.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[19Sep2023 14:32:12.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> 新電腦可以玩了
+[19Sep2023 14:32:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> Awesome!!!
+[19Sep2023 14:41:39.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[19Sep2023 14:41:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[19Sep2023 14:50:11.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[19Sep2023 14:50:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[19Sep2023 15:36:48.100] [User Authenticator #114/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[19Sep2023 15:36:50.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.54.232:54262] logged in with entity id 1464012 at (-916.0101721436391, 67.0, 162.1685749335845)
+[19Sep2023 15:36:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[19Sep2023 15:36:52.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
