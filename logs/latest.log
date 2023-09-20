@@ -15,3 +15,5 @@
 [19Sep2023 15:36:50.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.54.232:54262] logged in with entity id 1464012 at (-916.0101721436391, 67.0, 162.1685749335845)
 [19Sep2023 15:36:50.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
 [19Sep2023 15:36:52.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[19Sep2023 18:20:44.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[19Sep2023 18:20:44.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
