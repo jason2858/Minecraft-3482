@@ -28,3 +28,5 @@
 [21Sep2023 15:44:26.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=56, z=199} BlockPos{x=-830, y=65, z=198}
 [21Sep2023 17:45:15.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> JasonFox_Chan
 [21Sep2023 17:52:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang was slain by Cave Spider
+[21Sep2023 18:38:20.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[21Sep2023 18:38:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
