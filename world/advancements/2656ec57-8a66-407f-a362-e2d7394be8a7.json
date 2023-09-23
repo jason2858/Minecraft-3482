@@ -34,6 +34,7 @@
       "minecraft:desert": "2023-09-02 15:46:22 +0000",
       "minecraft:deep_frozen_ocean": "2023-08-13 12:35:26 +0000",
       "minecraft:ocean": "2023-08-12 14:08:06 +0000",
+      "minecraft:jungle": "2023-09-23 09:15:05 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-08-13 13:56:16 +0000",
       "minecraft:snowy_beach": "2023-08-12 14:50:26 +0000",
       "minecraft:windswept_savanna": "2023-08-12 14:12:26 +0000",
@@ -1818,6 +1819,7 @@
       "minecraft:creeper": "2023-08-13 13:53:28 +0000",
       "minecraft:slime": "2023-09-02 09:39:00 +0000",
       "minecraft:cave_spider": "2023-08-14 16:06:08 +0000",
+      "minecraft:piglin": "2023-09-23 10:14:50 +0000",
       "minecraft:stray": "2023-09-09 04:09:34 +0000",
       "minecraft:enderman": "2023-09-16 03:12:10 +0000",
       "minecraft:zombie": "2023-08-12 17:10:29 +0000",
@@ -4520,6 +4522,90 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2023-09-22 15:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-09-23 08:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2023-09-23 08:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2023-09-23 08:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2023-09-23 09:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-09-23 09:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-09-23 09:21:00 +0000"
     },
     "done": true
   },
