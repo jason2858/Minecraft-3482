@@ -1,9 +1,5 @@
-[22Sep2023 12:58:46.985] [User Authenticator #121/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[22Sep2023 12:58:48.847] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.70.121:14076] logged in with entity id 1587943 at (-993.5724372643379, 76.0, 148.21953290040463)
-[22Sep2023 12:58:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[22Sep2023 15:59:40.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.33202125058915044
-[22Sep2023 15:59:40.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.7091422953735673
-[22Sep2023 15:59:40.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.3317269383733219
-[22Sep2023 16:01:48.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-474, y=36, z=-1913} BlockPos{x=-474, y=37, z=-1913}
-[22Sep2023 16:21:32.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[22Sep2023 16:21:32.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[23Sep2023 03:45:27.261] [User Authenticator #122/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[23Sep2023 03:45:29.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:14255] logged in with entity id 1639607 at (-1013.0497330175325, 76.0, 113.17079745888961)
+[23Sep2023 03:45:29.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[23Sep2023 05:09:37.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[23Sep2023 05:09:37.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
