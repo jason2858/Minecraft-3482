@@ -14,6 +14,7 @@
       "minecraft:frozen_river": "2023-08-12 14:50:18 +0000",
       "minecraft:birch_forest": "2023-08-12 13:55:14 +0000",
       "minecraft:wooded_badlands": "2023-09-02 16:40:36 +0000",
+      "minecraft:bamboo_jungle": "2023-09-24 06:45:37 +0000",
       "minecraft:badlands": "2023-09-02 15:47:39 +0000",
       "minecraft:beach": "2023-08-12 13:54:34 +0000",
       "minecraft:dark_forest": "2023-08-13 12:16:12 +0000",
@@ -838,6 +839,7 @@
       "cooked_cod": "2023-08-13 12:55:14 +0000",
       "pumpkin_pie": "2023-08-12 15:32:10 +0000",
       "bread": "2023-08-13 10:55:34 +0000",
+      "suspicious_stew": "2023-09-24 07:02:42 +0000",
       "cooked_chicken": "2023-08-13 11:28:49 +0000",
       "cooked_salmon": "2023-08-13 13:13:32 +0000"
     },
@@ -1818,6 +1820,7 @@
       "minecraft:spider": "2023-08-14 15:46:34 +0000",
       "minecraft:creeper": "2023-08-13 13:53:28 +0000",
       "minecraft:slime": "2023-09-02 09:39:00 +0000",
+      "minecraft:husk": "2023-09-24 07:48:47 +0000",
       "minecraft:cave_spider": "2023-08-14 16:06:08 +0000",
       "minecraft:piglin": "2023-09-23 10:14:50 +0000",
       "minecraft:stray": "2023-09-09 04:09:34 +0000",
@@ -4606,6 +4609,78 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2023-09-23 09:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2023-09-24 10:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2023-09-24 10:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2023-09-24 10:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2023-09-24 10:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2023-09-24 09:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-09-24 10:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2023-09-24 10:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-09-24 10:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2023-09-24 10:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-09-24 10:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2023-09-24 10:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2023-09-24 10:30:11 +0000"
     },
     "done": true
   },

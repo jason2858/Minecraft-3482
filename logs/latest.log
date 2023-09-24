@@ -3,3 +3,19 @@
 [24Sep2023 03:14:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
 [24Sep2023 03:21:47.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
 [24Sep2023 03:21:47.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[24Sep2023 06:07:30.844] [User Authenticator #129/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /36.230.78.239:8656: Failed to verify username!
+[24Sep2023 06:07:30.846] [User Authenticator #129/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'ChapterJAY9527' tried to join with an invalid session
+[24Sep2023 06:07:30.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /36.230.78.239:8656 lost connection: Failed to verify username!
+[24Sep2023 06:07:42.050] [User Authenticator #130/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[24Sep2023 06:07:43.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:8661] logged in with entity id 1751605 at (-995.5521963006405, 76.0, 148.88026248792988)
+[24Sep2023 06:07:43.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[24Sep2023 06:17:27.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> m
+[24Sep2023 08:07:23.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[24Sep2023 08:07:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[24Sep2023 08:12:48.274] [User Authenticator #131/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[24Sep2023 08:12:50.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:10524] logged in with entity id 1783993 at (-998.5, 76.0, 147.5)
+[24Sep2023 08:12:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[24Sep2023 10:14:58.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.30837808565365776
+[24Sep2023 10:14:58.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.5302459619397268
+[24Sep2023 10:58:21.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[24Sep2023 10:58:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
