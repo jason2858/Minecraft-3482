@@ -1,21 +1,29 @@
-[24Sep2023 03:14:13.710] [User Authenticator #128/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[24Sep2023 03:14:15.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.183.94:59179] logged in with entity id 1749754 at (-724.3920624719107, 79.0, 229.2965451442578)
-[24Sep2023 03:14:15.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[24Sep2023 03:21:47.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[24Sep2023 03:21:47.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[24Sep2023 06:07:30.844] [User Authenticator #129/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /36.230.78.239:8656: Failed to verify username!
-[24Sep2023 06:07:30.846] [User Authenticator #129/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'ChapterJAY9527' tried to join with an invalid session
-[24Sep2023 06:07:30.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /36.230.78.239:8656 lost connection: Failed to verify username!
-[24Sep2023 06:07:42.050] [User Authenticator #130/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[24Sep2023 06:07:43.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:8661] logged in with entity id 1751605 at (-995.5521963006405, 76.0, 148.88026248792988)
-[24Sep2023 06:07:43.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[24Sep2023 06:17:27.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> m
-[24Sep2023 08:07:23.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[24Sep2023 08:07:23.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[24Sep2023 08:12:48.274] [User Authenticator #131/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[24Sep2023 08:12:50.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:10524] logged in with entity id 1783993 at (-998.5, 76.0, 147.5)
-[24Sep2023 08:12:50.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[24Sep2023 10:14:58.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.30837808565365776
-[24Sep2023 10:14:58.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.5302459619397268
-[24Sep2023 10:58:21.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[24Sep2023 10:58:21.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[25Sep2023 13:16:05.937] [User Authenticator #132/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[25Sep2023 13:16:07.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.183.94:62397] logged in with entity id 1845495 at (-1067.699999988079, -7.0, 198.69999998807907)
+[25Sep2023 13:16:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[25Sep2023 14:05:31.597] [User Authenticator #133/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[25Sep2023 14:05:33.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.78.239:7663] logged in with entity id 1852769 at (-1052.6919641645368, 77.0, 139.504641105073)
+[25Sep2023 14:05:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[25Sep2023 14:16:32.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-707, y=76, z=191} BlockPos{x=-708, y=76, z=190}
+[25Sep2023 14:20:29.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-668, y=62, z=120} BlockPos{x=-668, y=62, z=121}
+[25Sep2023 14:29:04.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[25Sep2023 14:29:04.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[25Sep2023 15:40:52.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[25Sep2023 15:40:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[25Sep2023 15:42:13.400] [User Authenticator #134/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[25Sep2023 15:42:15.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/36.231.183.94:63742] logged in with entity id 1874079 at (-997.3806549975448, 76.0, 146.2536101403081)
+[25Sep2023 15:42:15.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[25Sep2023 16:50:04.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=73, z=158} BlockPos{x=-684, y=66, z=182}
+[25Sep2023 16:50:04.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=73, z=158} BlockPos{x=-684, y=66, z=182}
+[25Sep2023 16:57:22.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-706, y=67, z=159} BlockPos{x=-727, y=67, z=156}
+[25Sep2023 17:01:15.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=61, z=156} BlockPos{x=-686, y=58, z=155}
+[25Sep2023 17:01:15.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=61, z=156} BlockPos{x=-686, y=58, z=155}
+[25Sep2023 17:01:16.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=59, z=157} BlockPos{x=-687, y=60, z=157}
+[25Sep2023 17:01:16.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-687, y=59, z=157} BlockPos{x=-687, y=60, z=157}
+[25Sep2023 17:01:16.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=60, z=158} BlockPos{x=-687, y=60, z=157}
+[25Sep2023 17:01:17.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=59, z=159} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 17:01:17.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=59, z=159} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 17:01:17.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=59, z=159} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 17:01:17.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=59, z=159} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 17:01:17.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=61, z=157} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 17:01:18.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=61, z=157} BlockPos{x=-687, y=59, z=159}
