@@ -27,3 +27,14 @@
 [25Sep2023 17:01:17.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-686, y=59, z=159} BlockPos{x=-687, y=59, z=159}
 [25Sep2023 17:01:17.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=61, z=157} BlockPos{x=-687, y=59, z=159}
 [25Sep2023 17:01:18.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=61, z=157} BlockPos{x=-687, y=59, z=159}
+[25Sep2023 18:33:07.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-682, y=58, z=154} BlockPos{x=-683, y=57, z=155}
+[25Sep2023 18:33:20.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-683, y=62, z=161} BlockPos{x=-683, y=61, z=163}
+[25Sep2023 18:34:30.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=66, z=154} BlockPos{x=-724, y=66, z=154}
+[25Sep2023 18:34:35.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=66, z=154} BlockPos{x=-725, y=63, z=149}
+[25Sep2023 18:34:35.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=66, z=154} BlockPos{x=-725, y=63, z=149}
+[25Sep2023 18:34:35.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=66, z=154} BlockPos{x=-725, y=63, z=149}
+[25Sep2023 18:34:35.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-726, y=66, z=154} BlockPos{x=-725, y=63, z=149}
+[25Sep2023 18:37:08.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-697, y=68, z=170} BlockPos{x=-696, y=67, z=169}
+[25Sep2023 18:38:02.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[25Sep2023 18:38:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[25Sep2023 23:22:06.711] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
