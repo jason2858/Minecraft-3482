@@ -30,3 +30,5 @@
 [26Sep2023 16:23:16.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-745, y=58, z=175} BlockPos{x=-745, y=57, z=174}
 [26Sep2023 16:23:24.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-747, y=60, z=182} BlockPos{x=-748, y=59, z=182}
 [26Sep2023 16:23:24.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-747, y=60, z=183} BlockPos{x=-748, y=59, z=182}
+[26Sep2023 18:13:21.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[26Sep2023 18:13:21.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
