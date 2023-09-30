@@ -3,3 +3,11 @@
 [30Sep2023 02:42:15.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
 [30Sep2023 03:40:30.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [30Sep2023 03:40:30.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[30Sep2023 06:21:09.072] [User Authenticator #146/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[30Sep2023 06:21:11.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.79.143:7866] logged in with entity id 2008508 at (-981.0935480823846, 76.0, 149.3357180486412)
+[30Sep2023 06:21:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[30Sep2023 07:32:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was blown up by Creeper
+[30Sep2023 07:37:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was doomed to fall by Skeleton
+[30Sep2023 07:44:14.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was shot by Skeleton
+[30Sep2023 07:59:26.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[30Sep2023 07:59:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
