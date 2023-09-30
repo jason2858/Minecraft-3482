@@ -11,3 +11,13 @@
 [30Sep2023 07:44:14.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was shot by Skeleton
 [30Sep2023 07:59:26.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [30Sep2023 07:59:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[30Sep2023 14:33:20.626] [User Authenticator #147/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
+[30Sep2023 14:33:20.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/118.150.165.207:52567] logged in with entity id 2032205 at (-981.2461050960159, 75.0, 136.51224599997823)
+[30Sep2023 14:33:20.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
+[30Sep2023 14:41:33.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Timed out
+[30Sep2023 14:41:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
+[30Sep2023 14:41:38.188] [User Authenticator #148/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
+[30Sep2023 14:41:38.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/118.150.165.207:5349] logged in with entity id 2034271 at (-1006.3910989836041, 76.0, 97.45417617439854)
+[30Sep2023 14:41:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
+[30Sep2023 14:45:11.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
+[30Sep2023 14:45:11.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
