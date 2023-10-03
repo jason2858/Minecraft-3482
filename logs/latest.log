@@ -1,6 +1,18 @@
-[02Oct2023 13:09:30.431] [User Authenticator #152/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[02Oct2023 13:09:32.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.33.238:54870] logged in with entity id 2071425 at (-721.373539677991, 64.0, 143.64709157285066)
-[02Oct2023 13:09:32.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[02Oct2023 13:27:32.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JasonFox_Chang> JasonFox_Chang
-[02Oct2023 16:27:59.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[02Oct2023 16:27:59.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[03Oct2023 13:17:41.717] [User Authenticator #153/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[03Oct2023 13:17:43.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.101.131:4664] logged in with entity id 2095095 at (-1035.8452152024158, 76.0, 115.3137519889227)
+[03Oct2023 13:17:43.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[03Oct2023 13:30:37.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.3603626807339424
+[03Oct2023 14:14:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Ol' Betsy]
+[03Oct2023 14:14:41.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Take Aim]
+[03Oct2023 14:15:11.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Voluntary Exile]
+[03Oct2023 14:33:20.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> ChapterJAY9527
+[03Oct2023 14:38:03.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2119859, l='ServerLevel[world]', x=-1868.30, y=69.85, z=1342.30] died, message: 'Farmer was slain by Vindicator'
+[03Oct2023 14:39:54.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2121793, l='ServerLevel[world]', x=-1904.57, y=66.56, z=1301.25] died, message: 'Villager was slain by Vindicator'
+[03Oct2023 15:00:12.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[03Oct2023 15:00:12.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[03Oct2023 16:51:56.786] [User Authenticator #154/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
+[03Oct2023 16:51:58.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.205.17:54858] logged in with entity id 2131219 at (-9.296322769025293, 79.0, -200.7005169648349)
+[03Oct2023 16:51:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
+[03Oct2023 17:00:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM has made the advancement [Take Aim]
+[03Oct2023 17:06:54.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
+[03Oct2023 17:06:54.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
