@@ -4688,9 +4688,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-10-03 13:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2023-10-03 13:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2023-10-03 13:40:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-10-03 14:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-10-03 14:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-10-03 14:15:11 +0000"
     },
     "done": true
   },
@@ -4712,39 +4742,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2023-10-03 14:14:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2023-10-03 14:21:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
-      "has_rose_bush": "2023-10-03 13:39:58 +0000"
+      "has_log": "2023-10-04 14:50:56 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
-      "voluntary_exile": "2023-10-03 14:15:11 +0000"
+      "has_stripped_logs": "2023-10-04 14:39:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
-      "has_peony": "2023-10-03 13:40:08 +0000"
+      "has_stripped_logs": "2023-10-04 14:50:56 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
-      "shot_crossbow": "2023-10-03 14:14:41 +0000"
+      "has_log": "2023-10-04 14:39:37 +0000"
     },
     "done": true
   },
