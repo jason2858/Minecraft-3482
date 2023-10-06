@@ -1,12 +1,6 @@
-[04Oct2023 13:56:54.188] [User Authenticator #155/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[04Oct2023 13:56:56.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.101.131:7279] logged in with entity id 2135457 at (-991.8073079104165, 76.0, 149.11131203451438)
-[04Oct2023 13:56:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[04Oct2023 14:17:10.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[04Oct2023 14:17:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[04Oct2023 14:26:12.194] [User Authenticator #156/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[04Oct2023 14:26:13.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.101.131:7360] logged in with entity id 2143132 at (-1275.207764257628, 63.0, 83.67271775523243)
-[04Oct2023 14:26:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[04Oct2023 14:52:19.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2150467, l='ServerLevel[world]', x=-1871.65, y=69.94, z=1357.89] died, message: 'Farmer was slain by Vindicator'
-[04Oct2023 14:59:09.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2151744, l='ServerLevel[world]', x=-1896.25, y=74.70, z=1348.23] died, message: 'Villager was shot by Pillager'
-[04Oct2023 15:52:44.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[04Oct2023 15:52:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[06Oct2023 15:10:52.750] [User Authenticator #157/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[06Oct2023 15:10:54.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.103.17:13330] logged in with entity id 2171607 at (-981.2740227209208, 76.0, 149.6414332886062)
+[06Oct2023 15:10:54.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[06Oct2023 16:15:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Those Were the Days]
+[06Oct2023 17:20:33.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[06Oct2023 17:20:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
