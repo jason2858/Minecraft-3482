@@ -1,6 +1,9 @@
-[06Oct2023 15:10:52.750] [User Authenticator #157/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[06Oct2023 15:10:54.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.103.17:13330] logged in with entity id 2171607 at (-981.2740227209208, 76.0, 149.6414332886062)
-[06Oct2023 15:10:54.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[06Oct2023 16:15:52.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Those Were the Days]
-[06Oct2023 17:20:33.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[06Oct2023 17:20:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[07Oct2023 08:34:00.675] [User Authenticator #158/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[07Oct2023 08:34:02.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.103.17:2943] logged in with entity id 2189974 at (-998.5, 76.0, 147.5)
+[07Oct2023 08:34:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[07Oct2023 09:27:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[07Oct2023 11:27:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 burned to death
+[07Oct2023 11:31:51.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-879, y=59, z=108} BlockPos{x=-879, y=60, z=108}
+[07Oct2023 11:34:49.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.2623658461652667
+[07Oct2023 11:34:49.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.6143232421043194
+[07Oct2023 11:34:49.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.923759983221089

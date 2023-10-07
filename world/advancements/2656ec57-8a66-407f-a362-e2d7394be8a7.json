@@ -1820,6 +1820,7 @@
       "minecraft:hoglin": "2023-09-15 13:59:26 +0000",
       "minecraft:magma_cube": "2023-09-02 16:50:50 +0000",
       "minecraft:spider": "2023-08-14 15:46:34 +0000",
+      "minecraft:piglin_brute": "2023-10-07 09:35:24 +0000",
       "minecraft:creeper": "2023-08-13 13:53:28 +0000",
       "minecraft:slime": "2023-09-02 09:39:00 +0000",
       "minecraft:husk": "2023-09-24 07:48:47 +0000",
@@ -2616,6 +2617,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2023-09-02 15:53:41 +0000",
       "minecraft:nether_wastes": "2023-08-18 14:08:19 +0000",
+      "minecraft:soul_sand_valley": "2023-10-07 11:01:26 +0000",
       "minecraft:basalt_deltas": "2023-08-15 13:31:43 +0000"
     },
     "done": false
@@ -4772,6 +4774,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-10-06 16:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-10-06 16:17:06 +0000"
@@ -4808,15 +4816,45 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2023-10-06 16:15:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-10-06 16:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-10-07 11:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-10-07 10:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-10-07 09:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-07 10:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-10-07 11:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-10-07 10:56:59 +0000"
     },
     "done": true
   },
