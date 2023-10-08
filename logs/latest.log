@@ -14,3 +14,13 @@
 [08Oct2023 04:37:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 tried to swim in lava
 [08Oct2023 05:20:06.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [08Oct2023 05:20:06.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[08Oct2023 06:47:08.709] [User Authenticator #161/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[08Oct2023 06:47:11.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.108.129:6705] logged in with entity id 2267932 at (-1028.2472946163516, 78.0, 68.08522836396152)
+[08Oct2023 06:47:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[08Oct2023 07:47:22.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[08Oct2023 07:47:22.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[08Oct2023 10:30:43.202] [User Authenticator #162/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[08Oct2023 10:30:45.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.108.129:7139] logged in with entity id 2278571 at (-995.9099323488131, 76.0, 149.01698068611313)
+[08Oct2023 10:30:45.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[08Oct2023 11:58:57.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[08Oct2023 11:58:57.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
