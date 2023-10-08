@@ -1,14 +1,16 @@
-[07Oct2023 08:34:00.675] [User Authenticator #158/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[07Oct2023 08:34:02.652] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.103.17:2943] logged in with entity id 2189974 at (-998.5, 76.0, 147.5)
-[07Oct2023 08:34:02.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[07Oct2023 09:27:00.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
-[07Oct2023 11:27:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 burned to death
-[07Oct2023 11:31:51.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-879, y=59, z=108} BlockPos{x=-879, y=60, z=108}
-[07Oct2023 11:34:49.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.2623658461652667
-[07Oct2023 11:34:49.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.6143232421043194
-[07Oct2023 11:34:49.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ChapterJAY9527) moved wrongly! 0.923759983221089
-[07Oct2023 12:12:50.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[07Oct2023 12:12:50.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[07Oct2023 21:44:53.834] [User Authenticator #159/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /34.29.68.59:41586: Failed to verify username!
-[07Oct2023 21:44:53.840] [User Authenticator #159/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'MojangEULAVer' tried to join with an invalid session
-[07Oct2023 21:44:53.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /34.29.68.59:41586 lost connection: Failed to verify username!
+[08Oct2023 03:18:58.017] [User Authenticator #160/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[08Oct2023 03:18:59.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.108.129:5829] logged in with entity id 2240762 at (-1008.6708894114329, 76.0, 135.2534203011345)
+[08Oct2023 03:18:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[08Oct2023 03:38:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [War Pigs]
+[08Oct2023 03:59:53.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:07:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:11:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:17:16.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:19:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:26:08.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:29:21.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:32:58.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:35:36.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Piglin Brute
+[08Oct2023 04:37:57.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 tried to swim in lava
+[08Oct2023 05:20:06.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[08Oct2023 05:20:06.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
