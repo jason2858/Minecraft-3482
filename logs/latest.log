@@ -30,3 +30,4 @@
 [08Oct2023 13:24:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> e
 [08Oct2023 13:55:14.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [08Oct2023 13:55:14.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[08Oct2023 20:49:58.168] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14297eb7[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:44754) lost connection: Disconnected
