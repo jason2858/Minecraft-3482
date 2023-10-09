@@ -4,3 +4,9 @@
 [09Oct2023 10:28:00.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChapterJAY9527> ee
 [09Oct2023 10:36:21.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
 [09Oct2023 10:36:21.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[09Oct2023 13:38:16.569] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3428ef55[id=<null>,name=ChapterJAY9527,properties={},legacy=false] (/36.230.108.129:13460) lost connection: Timed out
+[09Oct2023 13:38:31.953] [User Authenticator #165/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[09Oct2023 13:38:33.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.108.129:13478] logged in with entity id 2327716 at (-994.2902740400141, 76.0, 149.28937189075728)
+[09Oct2023 13:38:34.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[09Oct2023 13:54:48.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[09Oct2023 13:54:48.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
