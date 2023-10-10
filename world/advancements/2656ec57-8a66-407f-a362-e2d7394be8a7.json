@@ -4901,5 +4901,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2023-10-10 11:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-10-10 11:00:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
