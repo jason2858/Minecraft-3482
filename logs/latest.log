@@ -1,1 +1,3 @@
-[11Oct2023 18:05:12.612] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Oct2023 16:33:38.334] [User Authenticator #168/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /34.38.92.184:47508: Failed to verify username!
+[12Oct2023 16:33:38.355] [User Authenticator #168/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'Project.Notai' tried to join with an invalid session
+[12Oct2023 16:33:38.361] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /34.38.92.184:47508 lost connection: Failed to verify username!
