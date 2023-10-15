@@ -7,3 +7,5 @@
 [15Oct2023 10:39:33.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.114.84:12816] logged in with entity id 2435483 at (-989.6621975971735, 71.0, 87.61433229287236)
 [15Oct2023 10:39:33.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
 [15Oct2023 10:39:36.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[15Oct2023 12:07:50.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[15Oct2023 12:07:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
