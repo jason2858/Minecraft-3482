@@ -1,9 +1,5 @@
-[14Oct2023 07:21:48.256] [User Authenticator #169/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[14Oct2023 07:21:50.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.104.98:3411] logged in with entity id 2359120 at (-1716.6828429198897, 64.0, 1533.0880528464484)
-[14Oct2023 07:21:50.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[14Oct2023 08:03:09.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [Tactical Fishing]
-[14Oct2023 08:18:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has completed the challenge [Hero of the Village]
-[14Oct2023 08:26:06.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2372664, l='ServerLevel[world]', x=-1555.30, y=61.05, z=1284.30] died, message: 'Farmer drowned'
-[14Oct2023 08:30:24.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 has made the advancement [What a Deal!]
-[14Oct2023 11:35:41.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[14Oct2023 11:35:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
+[15Oct2023 02:30:55.006] [User Authenticator #170/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[15Oct2023 02:30:56.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.114.84:10973] logged in with entity id 2419381 at (-998.5, 76.5625, 148.5)
+[15Oct2023 02:30:56.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[15Oct2023 04:06:21.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[15Oct2023 04:06:21.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
