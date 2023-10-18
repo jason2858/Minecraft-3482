@@ -1,9 +1,3 @@
-[17Oct2023 12:27:50.714] [User Authenticator #172/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[17Oct2023 12:27:52.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.42.235:59800] logged in with entity id 2456327 at (-995.203436421707, 86.0, 175.4190109298872)
-[17Oct2023 12:27:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[17Oct2023 13:16:22.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-910, y=64, z=-6} BlockPos{x=-910, y=63, z=-6}
-[17Oct2023 13:17:02.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-882, y=63, z=-9} BlockPos{x=-884, y=63, z=-9}
-[17Oct2023 13:17:03.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-880, y=62, z=-8} BlockPos{x=-878, y=63, z=-9}
-[17Oct2023 13:17:03.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-878, y=63, z=-9} BlockPos{x=-879, y=62, z=-9}
-[17Oct2023 14:22:06.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[17Oct2023 14:22:06.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[18Oct2023 13:21:24.064] [User Authenticator #173/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[18Oct2023 13:21:25.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.42.235:62767] logged in with entity id 2477475 at (-998.0628105796862, 76.5625, 152.2426476653437)
+[18Oct2023 13:21:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
