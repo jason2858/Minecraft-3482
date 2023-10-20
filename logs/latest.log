@@ -1,15 +1,15 @@
-[19Oct2023 14:41:34.318] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dbed652[id=<null>,name=JasonFox_Chang,properties={},legacy=false] (/114.25.63.110:51504) lost connection: Disconnected
-[19Oct2023 14:43:29.057] [User Authenticator #174/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[19Oct2023 14:43:30.816] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.63.110:51660] logged in with entity id 2512765 at (-1067.699999988079, -7.0, 206.69999998807907)
-[19Oct2023 14:43:30.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[19Oct2023 16:17:26.666] [User Authenticator #175/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 0Jepe is 4845114e-907e-4ba6-ac9c-e75112b3025d
-[19Oct2023 16:17:26.737] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@fff8d5d[id=4845114e-907e-4ba6-ac9c-e75112b3025d,name=0Jepe,properties={textures=[com.mojang.authlib.properties.Property@24cfa7a4]},legacy=false] (/89.166.10.227:61232): You are not white-listed on this server!
-[19Oct2023 16:17:26.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fff8d5d[id=4845114e-907e-4ba6-ac9c-e75112b3025d,name=0Jepe,properties={textures=[com.mojang.authlib.properties.Property@24cfa7a4]},legacy=false] (/89.166.10.227:61232) lost connection: You are not white-listed on this server!
-[19Oct2023 16:17:26.787] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[19Oct2023 16:18:00.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[19Oct2023 16:18:00.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[19Oct2023 16:39:02.526] [User Authenticator #176/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YunpingSAM is a6a12f24-712d-4a18-bf1b-d846b8de75ab
-[19Oct2023 16:39:04.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YunpingSAM[/114.24.198.241:63927] logged in with entity id 2529143 at (-995.0508352391286, 87.0, 181.63746660514786)
-[19Oct2023 16:39:04.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM joined the game
-[19Oct2023 16:45:17.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YunpingSAM lost connection: Disconnected
-[19Oct2023 16:45:17.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YunpingSAM left the game
+[20Oct2023 12:35:40.353] [User Authenticator #177/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Oct2023 12:35:42.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.63.110:54920] logged in with entity id 2530751 at (-921.6999999880791, 67.0, 174.37693169981904)
+[20Oct2023 12:35:42.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Oct2023 13:11:27.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-897, y=67, z=196} BlockPos{x=-898, y=66, z=196}
+[20Oct2023 13:11:27.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-897, y=67, z=196} BlockPos{x=-898, y=66, z=196}
+[20Oct2023 13:21:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang has completed the challenge [Return to Sender]
+[20Oct2023 13:38:15.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Oct2023 13:38:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[20Oct2023 15:31:22.208] [User Authenticator #178/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[20Oct2023 15:31:23.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.63.110:55365] logged in with entity id 2541661 at (-891.4738270287443, 67.0, 180.13523289472738)
+[20Oct2023 15:31:23.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[20Oct2023 15:48:51.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=92, z=-28} BlockPos{x=-106, y=88, z=-26}
+[20Oct2023 16:41:42.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1056, y=64, z=257} BlockPos{x=-1045, y=65, z=255}
+[20Oct2023 16:48:08.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[20Oct2023 16:48:08.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
