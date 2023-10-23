@@ -33,3 +33,4 @@
 [22Oct2023 12:18:52.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 left the game
 [22Oct2023 12:18:58.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
 [22Oct2023 12:18:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[22Oct2023 20:55:01.121] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c16e6c9[id=<null>,name=ServerSeeker.net,properties={},legacy=false] (/109.123.240.84:53642) lost connection: Disconnected
