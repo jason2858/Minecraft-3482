@@ -1,0 +1,42 @@
+# 使用自己的帳號，不要使用root
+
+# 先把server的權限打開，變成自己的帳號
+sudo chmod 777 server
+sudo chown jasonfox2858:jasonfox2858 server
+
+# 建立SSH Keys for github
+ssh-keygen -t rsa -b 4096 -C "jason2858@hotmail.com"
+
+# 查看建立好的SSH public key
+less ~/.ssh/id_rsa.pub
+
+# 在github上設定 SSH Keys，將這個public key貼上，即可在此主機上使用github 
+
+# 設定git config
+git config --global user.name "jason"
+git config --global user.email "jason2858@hotmail.com"
+
+# 初始化 git
+git init
+
+# 連結gitHub repo
+git remote add origin https://github.com/jason2858/Minecraft-3482.git
+
+# 從github上把檔案拉下來
+git pull -f
+
+# 切換到main的branch
+git checkout -f main
+
+
+
+
+# 編輯crontab文件
+crontab -e
+
+# 在文件最下方輸入排程指定
+0 */6 * * * ~/mcserver/server/git-auto-save/auto-save.sh
+
+# 重啟crontab服務
+sudo systemctl restart cron
+
