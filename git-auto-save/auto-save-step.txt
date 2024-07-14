@@ -1,8 +1,8 @@
 # 使用自己的帳號，不要使用root
 
 # 先把server的權限打開，變成自己的帳號
-sudo chmod 777 server
-sudo chown jasonfox2858:jasonfox2858 server
+sudo chmod -R 777 server
+sudo chown -R jasonfox2858:jasonfox2858 server
 
 # 建立SSH Keys for github
 ssh-keygen -t rsa -b 4096 -C "jason2858@hotmail.com"
@@ -16,11 +16,14 @@ less ~/.ssh/id_rsa.pub
 git config --global user.name "jason"
 git config --global user.email "jason2858@hotmail.com"
 
+# 到server資料夾
+cd ~/mcserver/server
+
 # 初始化 git
 git init
 
 # 連結gitHub repo
-git remote add origin https://github.com/jason2858/Minecraft-3482.git
+git remote add origin git remote add origin git@github.com:jason2858/Minecraft-3482.git
 
 # 從github上把檔案拉下來
 git pull -f
