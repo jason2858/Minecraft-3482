@@ -1,4 +1,4 @@
-cd /home/minecraft/mcserver/server
+cd ~/mcserver/server
 
 git status
 git add -A

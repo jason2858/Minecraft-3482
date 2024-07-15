@@ -1,21 +1,105 @@
-[25Oct2023 11:44:52.185] [User Authenticator #189/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
-[25Oct2023 11:44:54.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/36.230.73.113:3659] logged in with entity id 2590757 at (-993.8844491653222, 71.0, 86.05735177025983)
-[25Oct2023 11:44:54.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
-[25Oct2023 12:23:58.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 was slain by Enderman
-[25Oct2023 14:09:07.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
-[25Oct2023 14:09:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
-[25Oct2023 14:59:37.638] [User Authenticator #190/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[25Oct2023 14:59:40.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/114.25.58.116:63671] logged in with entity id 2621391 at (-912.2222572099143, 67.0, 167.9637548623141)
-[25Oct2023 14:59:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[25Oct2023 15:14:24.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=79, z=111} BlockPos{x=93, y=79, z=111}
-[25Oct2023 15:19:57.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=85, z=89} BlockPos{x=121, y=85, z=89}
-[25Oct2023 15:30:27.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=41, z=115} BlockPos{x=73, y=42, z=115}
-[25Oct2023 15:30:27.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=41, z=115} BlockPos{x=73, y=42, z=115}
-[25Oct2023 15:30:27.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=41, z=115} BlockPos{x=73, y=42, z=115}
-[25Oct2023 15:30:27.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=41, z=115} BlockPos{x=73, y=42, z=115}
-[25Oct2023 16:11:46.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=89, z=82} BlockPos{x=-106, y=95, z=37}
-[25Oct2023 16:20:12.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=87, z=56} BlockPos{x=-170, y=83, z=56}
-[25Oct2023 16:20:12.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=87, z=56} BlockPos{x=-170, y=83, z=56}
-[25Oct2023 16:23:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang tried to swim in lava
-[25Oct2023 17:55:56.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[25Oct2023 17:55:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[14Jul2024 14:32:39.617] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.1.44, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, -nogui]
+[14Jul2024 14:32:39.625] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.1 by Oracle Corporation; OS Linux arch amd64 version 5.10.0-30-cloud-amd64
+[14Jul2024 14:32:39.779] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[14Jul2024 14:32:39.848] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/jasonfox2858/mcserver/server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[14Jul2024 14:32:40.162] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/jasonfox2858/mcserver/server/libraries/net/minecraftforge/fmlcore/1.20.1-47.1.44/fmlcore-1.20.1-47.1.44.jar is missing mods.toml file
+[14Jul2024 14:32:40.164] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/jasonfox2858/mcserver/server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.1.44/javafmllanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[14Jul2024 14:32:40.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/jasonfox2858/mcserver/server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.1.44/lowcodelanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[14Jul2024 14:32:40.168] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/jasonfox2858/mcserver/server/libraries/net/minecraftforge/mclanguage/1.20.1-47.1.44/mclanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[14Jul2024 14:32:40.265] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[14Jul2024 14:32:42.161] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [-nogui]
+[14Jul2024 14:32:49.615] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.44, for MC 1.20.1 with MCP 20230612.114412
+[14Jul2024 14:32:49.623] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.44 Initialized
+[14Jul2024 14:32:50.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Jul2024 14:32:51.840] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.1.44 Target: 47.3.0
+[14Jul2024 14:32:52.369] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Jul2024 14:32:53.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/jasonfox2858/mcserver/server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[14Jul2024 14:32:53.523] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/jasonfox2858/mcserver/server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[14Jul2024 14:32:56.296] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[14Jul2024 14:32:56.501] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[14Jul2024 14:32:57.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[14Jul2024 14:32:57.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Jul2024 14:32:57.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Jul2024 14:32:57.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Jul2024 14:32:57.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Jul2024 14:32:57.702] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Jul2024 14:32:57.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[14Jul2024 14:33:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Jul2024 14:33:09.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.298] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.321] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.347] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.373] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.382] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.419] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.469] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.491] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.503] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.543] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.565] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.574] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:09.578] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Jul2024 14:33:10.033] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Jul2024 14:33:10.533] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[14Jul2024 14:33:11.033] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[14Jul2024 14:33:11.329] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8296 ms
+[14Jul2024 14:33:11.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.440s)! For help, type "help"
+[14Jul2024 14:33:11.366] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Jul2024 14:37:24.922] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[14Jul2024 14:37:26.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:62886] logged in with entity id 82 at (-1067.699999988079, -7.0, 206.69999998807907)
+[14Jul2024 14:37:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[14Jul2024 14:37:29.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[14Jul2024 14:45:19.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[14Jul2024 14:45:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[14Jul2024 15:22:31.028] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Spektator is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 15:22:31.151] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2c1e2f42[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=Spektator,properties={textures=[com.mojang.authlib.properties.Property@6775be2f]},legacy=false] (/114.45.167.140:2203): You are not white-listed on this server!
+[14Jul2024 15:22:31.153] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c1e2f42[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=Spektator,properties={textures=[com.mojang.authlib.properties.Property@6775be2f]},legacy=false] (/114.45.167.140:2203) lost connection: You are not white-listed on this server!
+[14Jul2024 15:22:31.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 15:27:57.671] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[14Jul2024 15:27:59.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:63112] logged in with entity id 2232 at (-936.6630738820918, 67.0, 175.86584016037895)
+[14Jul2024 15:27:59.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[14Jul2024 15:35:16.787] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /114.45.167.140:2424: Failed to verify username!
+[14Jul2024 15:35:16.788] [User Authenticator #4/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'Spektator' tried to join with an invalid session
+[14Jul2024 15:35:16.791] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /114.45.167.140:2424 lost connection: Failed to verify username!
+[14Jul2024 15:35:29.532] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /114.45.167.140:2437: Failed to verify username!
+[14Jul2024 15:35:29.533] [User Authenticator #5/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'Spektator' tried to join with an invalid session
+[14Jul2024 15:35:29.540] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /114.45.167.140:2437 lost connection: Failed to verify username!
+[14Jul2024 15:37:29.451] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 15:37:29.551] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1eeb9733[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@fa1658b]},legacy=false] (/114.45.167.140:2612): You are not white-listed on this server!
+[14Jul2024 15:37:29.552] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1eeb9733[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@fa1658b]},legacy=false] (/114.45.167.140:2612) lost connection: You are not white-listed on this server!
+[14Jul2024 15:37:29.599] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 15:39:36.802] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 15:39:36.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1b5326b0[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@2983e93c]},legacy=false] (/114.45.167.140:2647): You are not white-listed on this server!
+[14Jul2024 15:39:36.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b5326b0[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@2983e93c]},legacy=false] (/114.45.167.140:2647) lost connection: You are not white-listed on this server!
+[14Jul2024 15:39:36.943] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 16:15:08.927] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 16:15:08.996] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@625a174d[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@4db2c471]},legacy=false] (/114.45.167.140:2944): You are not white-listed on this server!
+[14Jul2024 16:15:08.997] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@625a174d[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@4db2c471]},legacy=false] (/114.45.167.140:2944) lost connection: You are not white-listed on this server!
+[14Jul2024 16:15:09.041] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 16:15:25.858] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 16:15:25.945] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@399df51a[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@42dcdaba]},legacy=false] (/114.45.167.140:2946): You are not white-listed on this server!
+[14Jul2024 16:15:25.946] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@399df51a[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@42dcdaba]},legacy=false] (/114.45.167.140:2946) lost connection: You are not white-listed on this server!
+[14Jul2024 16:15:26.002] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 16:18:28.904] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 16:18:28.990] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@79616270[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@76805b40]},legacy=false] (/114.45.167.140:3152): You are not white-listed on this server!
+[14Jul2024 16:18:28.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79616270[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@76805b40]},legacy=false] (/114.45.167.140:3152) lost connection: You are not white-listed on this server!
+[14Jul2024 16:18:29.042] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 16:18:41.717] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[14Jul2024 16:18:41.795] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2f902ce3[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@1fdd79b6]},legacy=false] (/114.45.167.140:3153): You are not white-listed on this server!
+[14Jul2024 16:18:41.796] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f902ce3[id=0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539,name=siriuswolf1201,properties={textures=[com.mojang.authlib.properties.Property@1fdd79b6]},legacy=false] (/114.45.167.140:3153) lost connection: You are not white-listed on this server!
+[14Jul2024 16:18:41.848] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jul2024 16:28:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JasonFox_Chang a server operator
+[14Jul2024 16:30:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JasonFox_Chang: Added siriuswolf1201 to the whitelist]
+[14Jul2024 16:38:25.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[14Jul2024 16:38:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[14Jul2024 18:24:19.852] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[14Jul2024 18:24:21.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:55591] logged in with entity id 11543 at (-998.5, 76.0, 147.5)
+[14Jul2024 18:24:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[14Jul2024 18:37:51.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[14Jul2024 18:37:51.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[14Jul2024 20:27:09.118] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5660321f[id=<null>,name=ChapterJAY9527,properties={},legacy=false] (/201.127.82.196:12309) lost connection: Disconnected
+[14Jul2024 20:27:30.930] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ChapterJAY9527 is 2656ec57-8a66-407f-a362-e2d7394be8a7
+[14Jul2024 20:27:32.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChapterJAY9527[/201.127.82.196:12480] logged in with entity id 14499 at (-993.5, 81.0, 137.5)
+[14Jul2024 20:27:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 joined the game
+[14Jul2024 21:23:34.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChapterJAY9527 lost connection: Disconnected
+[14Jul2024 21:23:34.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChapterJAY9527 left the game
