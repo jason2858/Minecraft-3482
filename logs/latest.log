@@ -1,10 +1,5 @@
-[15Jul2024 13:20:07.299] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[15Jul2024 13:20:08.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:59167] logged in with entity id 28112 at (-998.5, 76.5625, 151.5)
-[15Jul2024 13:20:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[15Jul2024 13:26:00.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[15Jul2024 13:26:00.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
-[15Jul2024 13:58:41.855] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
-[15Jul2024 13:58:43.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:60127] logged in with entity id 29295 at (-999.2600322554404, 76.0, 143.4647448589615)
-[15Jul2024 13:58:43.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
-[15Jul2024 14:03:19.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
-[15Jul2024 14:03:19.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[16Jul2024 00:36:06.832] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player siriuswolf1201 is 0ea79f8e-e8a3-4a7f-b4bf-edf2fbdcb539
+[16Jul2024 00:36:06.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: siriuswolf1201[/118.163.94.127:10461] logged in with entity id 30432 at (42.5, 63.0, -15.5)
+[16Jul2024 00:36:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siriuswolf1201 joined the game
+[16Jul2024 00:37:37.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: siriuswolf1201 lost connection: Disconnected
+[16Jul2024 00:37:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siriuswolf1201 left the game
