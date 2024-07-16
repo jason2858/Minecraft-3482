@@ -3,3 +3,60 @@
 [16Jul2024 00:36:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siriuswolf1201 joined the game
 [16Jul2024 00:37:37.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: siriuswolf1201 lost connection: Disconnected
 [16Jul2024 00:37:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: siriuswolf1201 left the game
+[16Jul2024 14:00:30.203] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player samlee__ is c31c5940-67e9-425c-8e59-e5cf74406b13
+[16Jul2024 14:00:30.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlee__[/42.72.4.140:20736] logged in with entity id 30803 at (38.5, 69.0, -5.5)
+[16Jul2024 14:00:30.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ joined the game
+[16Jul2024 14:00:43.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=38, y=69, z=-5}
+[16Jul2024 14:00:52.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samlee__ lost connection: Disconnected
+[16Jul2024 14:00:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ left the game
+[16Jul2024 14:04:50.291] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Efanlow_Fu is 39beaaf9-d739-46fe-833f-e5b36279e107
+[16Jul2024 14:04:50.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Efanlow_Fu[/123.193.170.205:16723] logged in with entity id 30912 at (-260.4616883021252, 65.0, 136.50678327502322)
+[16Jul2024 14:04:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Efanlow_Fu joined the game
+[16Jul2024 14:05:27.701] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player samlee__ is c31c5940-67e9-425c-8e59-e5cf74406b13
+[16Jul2024 14:05:27.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlee__[/42.72.4.140:19906] logged in with entity id 31087 at (38.5, 69.0, -5.5)
+[16Jul2024 14:05:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ joined the game
+[16Jul2024 14:11:13.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samlee__ lost connection: Timed out
+[16Jul2024 14:11:13.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ left the game
+[16Jul2024 14:11:13.430] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2024 14:28:55.442] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player samlee__ is c31c5940-67e9-425c-8e59-e5cf74406b13
+[16Jul2024 14:28:55.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlee__[/42.72.4.140:20714] logged in with entity id 35563 at (0.7073950059966394, 66.0, -6.159409974113363)
+[16Jul2024 14:28:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ joined the game
+[16Jul2024 14:30:41.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samlee__ lost connection: Disconnected
+[16Jul2024 14:30:41.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ left the game
+[16Jul2024 14:32:39.471] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player samlee__ is c31c5940-67e9-425c-8e59-e5cf74406b13
+[16Jul2024 14:32:39.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: samlee__[/42.72.4.140:18606] logged in with entity id 36343 at (18.840963270734417, 66.0, -1.6535504979759408)
+[16Jul2024 14:32:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ joined the game
+[16Jul2024 14:36:26.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: samlee__ lost connection: Disconnected
+[16Jul2024 14:36:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: samlee__ left the game
+[16Jul2024 14:51:00.052] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[16Jul2024 14:51:01.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:64044] logged in with entity id 38931 at (-900.0438405174838, 67.0, 153.29425954729393)
+[16Jul2024 14:51:01.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[16Jul2024 14:51:32.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[16Jul2024 14:51:32.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[16Jul2024 14:57:42.920] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player a150052 is 9b584815-5c0b-4cb0-8669-ebcab8e3927c
+[16Jul2024 14:57:44.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: a150052[/118.168.162.181:1745] logged in with entity id 40049 at (-985.5944883348295, 76.0, 145.80633888548255)
+[16Jul2024 14:57:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 joined the game
+[16Jul2024 15:01:53.785] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[16Jul2024 15:01:55.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:64770] logged in with entity id 41520 at (-920.2149221978601, 68.0, 151.82621450414186)
+[16Jul2024 15:01:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[16Jul2024 15:07:41.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Efanlow_Fu has made the advancement [Acquire Hardware]
+[16Jul2024 15:18:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Efanlow_Fu has made the advancement [Sweet Dreams]
+[16Jul2024 15:20:43.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Efanlow_Fu has made the advancement [Isn't It Iron Pick]
+[16Jul2024 15:24:01.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=67, z=160} BlockPos{x=-899, y=66, z=170}
+[16Jul2024 15:24:01.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-905, y=67, z=160} BlockPos{x=-899, y=66, z=170}
+[16Jul2024 15:37:11.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[16Jul2024 15:37:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[16Jul2024 15:43:39.712] [User Authenticator #25/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JasonFox_Chang is 411ca64b-ef46-479b-9f54-cf84eaa75ed2
+[16Jul2024 15:43:41.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JasonFox_Chang[/220.129.204.125:65008] logged in with entity id 53718 at (-890.6677357295761, 64.0, 68.46777619317133)
+[16Jul2024 15:43:41.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang joined the game
+[16Jul2024 15:45:27.605] [User Authenticator #26/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Bettylu505 is a45b0eb0-03a1-481d-8415-4c8a4bc1b361
+[16Jul2024 15:45:29.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bettylu505[/220.129.204.125:65130] logged in with entity id 54247 at (-994.376014787884, 76.0, 149.42323609628548)
+[16Jul2024 15:45:29.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 joined the game
+[16Jul2024 15:54:18.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JasonFox_Chang lost connection: Disconnected
+[16Jul2024 15:54:18.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JasonFox_Chang left the game
+[16Jul2024 16:06:40.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Efanlow_Fu lost connection: Disconnected
+[16Jul2024 16:06:40.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Efanlow_Fu left the game
+[16Jul2024 16:08:29.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: a150052 lost connection: Disconnected
+[16Jul2024 16:08:29.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a150052 left the game
+[16Jul2024 16:08:41.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bettylu505 lost connection: Disconnected
+[16Jul2024 16:08:41.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bettylu505 left the game
